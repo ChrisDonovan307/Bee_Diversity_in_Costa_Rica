@@ -1,0 +1,28 @@
+\begin{table}[!h]
+\centering
+\caption{\label{tab:lm_abundance}Parameters from abundance regression}
+\centering
+\fontsize{9}{11}\selectfont
+\begin{threeparttable}
+\begin{tabular}[t]{cccccccc}
+\hline\hline
+Variable & Estimate & Std. Error & t & 2.5 \% & 97.5 \% & p &  \\
+\midrule
+(Intercept) & -0.164 & 3.116 & -0.053 & -6.332 & 6.003 & 0.958 & \\
+Mean Temp (C) & -0.032 & 0.105 & -0.302 & -0.239 & 0.176 & 0.763 & \\
+Mean Precip (mm) & 0.016 & 0.010 & 1.604 & -0.004 & 0.035 & 0.111 & \\
+Shade: simple & 0.414 & 0.266 & 1.557 & -0.112 & 0.940 & 0.122 & \\
+Shade: diverse & 0.522 & 0.241 & 2.163 & 0.044 & 1.000 & 0.032 & \\
+Elevation (m) & 0.000 & 0.001 & -0.521 & -0.002 & 0.001 & 0.603 & \\
+Forest (1km) & 1.359 & 0.830 & 1.638 & -0.283 & 3.001 & 0.104 & \\
+Region: Pérez Zeledón & -0.859 & 0.703 & -1.223 & -2.250 & 0.531 & 0.224 & \\
+Region: Turrialba & -0.693 & 0.797 & -0.869 & -2.270 & 0.884 & 0.386 & \\
+Region: Valle Central & 0.370 & 0.325 & 1.141 & -0.272 & 1.013 & 0.256 & \\
+Region: Valle Occidental & 0.114 & 0.336 & 0.339 & -0.551 & 0.779 & 0.735 & \\
+\hline\hline
+\end{tabular}
+\begin{tablenotes}[para]
+\item Linear model with region as a fixed effect and log-transformed abundance as the dependent variable. Adj. $R^2 = 0.042, F = 1.585$ on 10 and 123 df, $p = 0.119$
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

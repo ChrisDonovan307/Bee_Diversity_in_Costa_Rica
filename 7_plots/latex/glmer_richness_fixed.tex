@@ -1,0 +1,24 @@
+\begin{table}[!h]
+\centering
+\caption{\label{tab:lmer_richness_fixed}Fixed effect parameters for richness regression}
+\centering
+\fontsize{9}{11}\selectfont
+\begin{threeparttable}
+\begin{tabular}[t]{cccccccc}
+\hline\hline
+Variable & Estimate & Std. Error & z & 2.5 \% & 97.5 \% & p &  \\
+\midrule
+(Intercept) & 1.239 & 0.112 & 11.084 & 0.997 & 1.443 & 0.000 & *\\
+Mean Temp (C) & -0.090 & 0.104 & -0.865 & -0.293 & 0.116 & 0.387 & \\
+Mean Precip (mm) & 0.258 & 0.084 & 3.086 & 0.100 & 0.443 & 0.002 & *\\
+Shade: simple & 0.047 & 0.135 & 0.344 & -0.217 & 0.314 & 0.731 & \\
+Shade: diverse & 0.118 & 0.128 & 0.920 & -0.128 & 0.371 & 0.358 & \\
+Elevation (m) & -0.210 & 0.131 & -1.600 & -0.468 & 0.048 & 0.110 & \\
+Forest (1km) & 0.091 & 0.051 & 1.792 & -0.009 & 0.190 & 0.073 & \\
+\hline\hline
+\end{tabular}
+\begin{tablenotes}[para]
+\item Generalized linear model with a poisson distribution and random effects for coffee region. All predictors are grand-mean centered.  Marginal $R^2 =  0.399 $,  Conditional $R^2 =  0.41 $,  LR Pseudo $R^2 =  0.499 $. Region variance $ =  0.004 $, region standard deviation $ =  0.067 $.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

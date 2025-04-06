@@ -1,0 +1,45 @@
+region,farm,codfrm,province,farm_area,farm_area_unit,coffee_area,coffee_area_unit,sky,notes
+Los Santos,Arturo Bonilla,ARTBON,San José,NA,NA,NA,NA,30,NA
+Los Santos,Eliécer Martínez,ELIMAR,San José,NA,NA,NA,NA,60,NA
+Los Santos,Francisco Monge Solís,FRAMON,San José,NA,NA,NA,NA,35,NA
+Los Santos,Heiner Marín,HEIMAR,San José,NA,NA,NA,NA,5,NA
+Pérez Zeledón,Gabriel Calderón,GABCAL,San José,35,ha,3,ha,NA,NA
+Pérez Zeledón,Gerardo Corrales,GERCOR,San José,25,ha,14,ha,NA,Indicios de aplicación de herbicidas en la finca.
+Pérez Zeledón,German Calderón,GERCAL,San José,3,ha,1,ha,NA,NA
+Pérez Zeledón,Herberth Von Schroter,HERVON,San José,35,ha,15,ha,NA,NA
+Pérez Zeledón,Mario Piedra,MARPIE,Puntarenas,100,ha,60,ha,NA,NA
+Pérez Zeledón,Miguel Chacón,MIGCHA,San José,6,ha,3,ha,NA,En la finca hay colonias de apice y trigonas.
+Pérez Zeledón,Ramiro Valverde,RAMVAL,San José,33,ha,33,ha,NA,NA
+Valle Central,Luis Díaz 1,LUIDI1,San José,2,mzn,2,mzn,NA,NA
+Valle Occidental,Marcelino Acuña,MARACU,Alajuela,NA,NA,NA,NA,80,NA
+Valle Occidental,Rodrigo Vásquez,RODVAZ,Alajuela,NA,NA,NA,NA,0,NA
+Turrialba,Alexis Meoño,ALEMEO,Cartago,2.76,ha,2.42,ha,NA,NA
+Turrialba,Alexis Solano Fallas,ALESOL,Cartago,1,ha,1,ha,NA,NA
+Turrialba,Alexis Vega,ALEVEG,Cartago,3.5,ha,1,ha,NA,NA
+Turrialba,Antonio Salazar,ANTSAL,Cartago,0.34,ha,0.34,ha,NA,NA
+Turrialba,Bernardo Hidalgo,BERHID,Cartago,2,ha,0.5,ha,NA,NA
+Turrialba,Eliseo Brenes Naranjo,ELIBRE,Cartago,1.38,ha,1.38,ha,NA,NA
+Turrialba,Emilce Fuentes,EMIFUE,Cartago,4,ha,4,ha,NA,NA
+Turrialba,Evelio Brenes Meneses,EVEBRE,Cartago,3.1,ha,3.1,ha,NA,NA
+Turrialba,Francisco Esquivel,FRAESQ,Cartago,3,ha,2,ha,NA,NA
+Turrialba,Gerardo Araya Solano,GERARA,Cartago,2.07,ha,0.34,ha,NA,NA
+Turrialba,German Porras #1 [casa],GPHOME,Cartago,2,ha,2,ha,NA,NA
+Turrialba,German Porras #2 [tía],GPAUNT,Cartago,2,ha,2,ha,NA,NA
+Turrialba,Guillermo Rivera Ramírez,GUIRAM,Cartago,6,ha,1,ha,NA,NA
+Turrialba,Henning Von Platen,HENVON,Cartago,31,ha,25,ha,NA,NA
+Turrialba,José Manuel Vega,JMAVEG,Cartago,30,ha,3,ha,NA,NA
+Turrialba,José Medrano,JOSMED,Cartago,1,ha,1,ha,NA,NA
+Turrialba,Lidier Díaz #1 [casa],LDHOME,Cartago,8,ha,3,ha,NA,NA
+Turrialba,Lidier Díaz #2 [parcela arriba],LDPLOT,Cartago,8,ha,3,ha,NA,NA
+Turrialba,Mauro Campos Solano,MAUCAM,Cartago,1.38,ha,1.38,ha,NA,NA
+Turrialba,Miguel Núñez #1 [casa],MNHOME,Cartago,NA,NA,1.04,ha,NA,NA
+Turrialba,Miguel Núñez #2 [parcela arriba],MNPLOT,Cartago,NA,NA,1.04,ha,NA,NA
+Turrialba,Olman Bravo,OLMBRA,Cartago,6,ha,4,ha,NA,NA
+Turrialba,Rigoberto Coto,RIGCOT,Cartago,4,ha,2.5,ha,NA,NA
+Turrialba,Rigoberto Ureña,RIGURE,Cartago,19.5,ha,6,ha,NA,NA
+Turrialba,Rolando Pérez Morales,ROLPER,Cartago,1,ha,0.35,ha,NA,NA
+Turrialba,Sta. Rosa #1 - Víctor Arrieta,STAROS,Cartago,26,ha,24,ha,NA,NA
+Turrialba,Sta. Rosa #2 - José Cordero,SRPLOT,Cartago,26,ha,24,ha,NA,NA
+Turrialba,Víctor Manuel Quiróz Esquivel,VICQUI,Cartago,NA,NA,NA,NA,NA,NA
+Turrialba,Víctor Ramírez,VICRAM,Cartago,5,ha,5,ha,NA,NA
+Turrialba,Víctor Salmerón,VICSAL,Cartago,3,ha,2.5,ha,NA,NA

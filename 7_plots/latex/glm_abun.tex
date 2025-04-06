@@ -1,0 +1,22 @@
+\begin{table}[!h]
+\centering
+\caption{\label{tab:glm_abun}GLM of abundance by region}
+\centering
+\fontsize{9}{11}\selectfont
+\begin{threeparttable}
+\begin{tabular}[t]{cccccc}
+\hline\hline
+term & estimate & std.error & statistic & p.value &  \\
+\midrule
+(Intercept) & 2.091 & 0.153 & 13.678 & 0.000 & *\\
+Pérez Zeledón & 0.413 & 0.225 & 1.835 & 0.066 & \\
+Turrialba & 0.543 & 0.214 & 2.536 & 0.011 & *\\
+Valle Central & 0.715 & 0.215 & 3.327 & 0.001 & *\\
+Valle Occidental & 0.174 & 0.246 & 0.706 & 0.480 & \\
+\hline\hline
+\end{tabular}
+\begin{tablenotes}[para]
+\item Negative binomial distribution. Residual deviance: 141.72 on 129 degrees of freedom.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}

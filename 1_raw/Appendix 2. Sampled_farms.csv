@@ -1,0 +1,143 @@
+Region,Farm,Codfrm,Date,Latitude,Longitude,Elevation,Province,County,District,Start time,Temperature,Wind,Farm area,Farm area unit,Coffee Area,Coffee area unit,Rain,Rain intensity,Coffee flowering,Ground flowers,Canopy flowers,Shade type,Sky,Notes
+Los Santos,Ana Pretiz,ANAPRE,2021-05-18T00:00:00Z,9.64671167,-83.95332833,1756,San José,Dota,Copey,1899-12-31T10:07:00Z,23.4,1.8,13,mzn,13,mzn,0,0,1,4,0,1,40,NA
+Los Santos,Arturo Bonilla,ARTBON,2021-04-06T00:00:00Z,9.6346517,-83.9677833,1727,San José,Dota,Santa María,1899-12-31T10:45:00Z,25.6,0,NA,NA,NA,NA,0,0,1,4,1,2,30,NA
+Los Santos,Coopetarrazú ( Finca San Francisco),COOTA1,2021-03-31T00:00:00Z,9.6085485,-84.0203304,1428,San José,Tarrazú,San Lorenzo,1899-12-31T08:30:00Z,26.4,0.6,3.5,mzn,3.5,mzn,0,0,3,2,0,1,45,Propiedad colindante con montaña
+Los Santos,Coopetarrazú R.L (Finca Central),COOTA2,2021-03-29T00:00:00Z,9.662904,-84.03372,1497,San José,Tarrazú,San Marcos,1899-12-31T11:10:00Z,28.6,1.8,10.2,ha,2.5,ha,0,0,3,0,0,1,95,NA
+Los Santos,Diego Calderón,DIECAL,2021-03-29T00:00:00Z,9.6578989,-84.0524975,1364,San José,Tarrazú,San Lorenzo,1899-12-31T15:20:00Z,26.4,1.1,2,mzn,2,mzn,0,0,3,1,0,2,80,En propiedad cercana hay cultivo de aguacate
+Los Santos,Eliécer Martínez,ELIMAR,2021-03-31T00:00:00Z,9.6937526,-84.0020916,1722,San José,Tarrazú,San Marcos,1899-12-31T12:25:00Z,23.3,0.8,NA,NA,NA,NA,0,0,2,1,0,2,60,NA
+Los Santos,Emilio Marín Piedra,EMIMAR,2021-04-02T00:00:00Z,9.746683,-84.046385,1542,San José,Desamparados,Frailes,1899-12-31T09:56:00Z,22.4,2.4,3,ha,3,ha,0,0,2,1,1,2,60,NA
+Los Santos,Emmanuel Solís 1,EMSOL1,2021-04-06T00:00:00Z,9.627571,-83.9564364,2046,San José,Dota,Santa María,1899-12-31T08:15:00Z,20.1,0,20,ha,20,ha,0,0,2,4,0,2,60,NA
+Los Santos,Emmanuel Solís 2,EMSOL2,2021-03-30T00:00:00Z,9.6605847,-83.974035,1588,San José,Dota,Santa María,1899-12-31T08:31:00Z,25.2,3.3,3,ha,3,ha,0,0,2,0,1,2,65,Propiedad colindante con montaña
+Los Santos,Felipe Calderón Zuñiga,FELCAL,2021-03-29T00:00:00Z,9.65622019,-84.0534483,1430,San José,Tarrazú,San Lorenzo,1899-12-31T13:12:00Z,28.3,1.2,0.8,ha,0.8,ha,0,0,3,0,0,2,65,En propiedad cercana hay cultivo de aguacate
+Los Santos,Fernando Badilla,FERBON,2021-05-18T00:00:00Z,9.65003,-83.9514683,1698,San José,Dota,Copey,1899-12-31T09:11:00Z,21.2,0.8,5,ha,5,ha,0,0,1,2,3,2,35,NA
+Los Santos,Francisco Monge Solís,FRAMON,2021-03-30T00:00:00Z,9.7545916,-84.0768107,1506,San José,Desamparados,Frailes,1899-12-31T14:43:00Z,28.7,1.7,NA,NA,NA,NA,0,0,3,1,0,2,35,NA
+Los Santos,Freddy Garro,FREGAR,2021-04-02T00:00:00Z,9.75027,-84.051921,1584,San José,Desamparados,Frailes,1899-12-31T08:37:00Z,18.8,2.6,1,mzn,1,mzn,1,1,2,4,0,1,20,NA
+Los Santos,Gabriel Ureña,GABURE,2021-04-23T00:00:00Z,9.65142167,-83.94701667,1852,San José,Dota,Santa María,1899-12-31T08:37:00Z,19,1.8,2.5,mzn,2.5,mzn,0,0,1,3,4,1,95,NA
+Los Santos,Gerardo Fallas,GERFAL,2021-04-05T00:00:00Z,9.633098,-83.9951,1903,San José,Tarrazú,San Marcos,1899-12-31T13:28:00Z,24.7,2,4,mzn,4,mzn,0,0,1,1,0,2,40,NA
+Los Santos,Heiner Marín,HEIMAR,2021-04-02T00:00:00Z,9.7479916,-84.04654,1539,San José,Desamparados,Frailes,1899-12-31T09:23:00Z,19.4,1.8,NA,NA,NA,NA,1,1,1,1,0,2,5,NA
+Los Santos,Iván Gutiérrez,IVAGUT,2021-03-31T00:00:00Z,9.639308,-83.997693,1770,San José,Tarrazú,San Marcos,1899-12-31T14:30:00Z,25.6,1.1,11,mzn,11,mzn,0,0,2,0,0,1,40,NA
+Los Santos,Jaime Solis Umaña,JAISOL,2021-03-31T00:00:00Z,9.6757783,-83.99934,1624,San José,Tarrazú,San Marcos,1899-12-31T10:30:00Z,27.4,1.3,18,mzn,4,mzn,0,0,3,1,2,2,45,Producción de aguacate dentro de la finca
+Los Santos,Joaquín Solís,JOASOL,2021-04-06T00:00:00Z,9.629235,-83.964393,1880,San José,Dota,Santa María,1899-12-31T09:23:00Z,25.2,0,60,ha,60,ha,0,0,2,1,1,2,70,NA
+Los Santos,José Mora,JOSMOR,2021-04-06T00:00:00Z,9.633778,-83.945283,2117,San José,Dota,Santa María,1899-12-31T11:58:00Z,19.6,2.4,6,mzn,5,mzn,0,0,1,4,4,2,2,Bosque alrededor de la finca
+Los Santos,Joselito Mora Mora,JOLMOR,2021-04-01T00:00:00Z,9.6790683,-84.0683983,1749,San José,Leon Cortes,San Isidro,1899-12-31T11:27:00Z,25.5,2.1,1,mzn,1,mzn,0,0,2,1,0,2,80,Finca produce aguacate simultaneamente y productor cuenta con dos colmenas en la propiedad
+Los Santos,Laura Ureña,LAUURE,2021-05-18T00:00:00Z,9.65230167,-83.948541,1779,San José,Dota,Copey,1899-12-31T11:11:00Z,25.4,1.1,4,mzn,4,mzn,0,0,1,2,0,1,15,NA
+Los Santos,Leo Valverde,LEOVAL,2021-04-23T00:00:00Z,9.61773833,-84.01792833,1523,San José,Tarrazú,San Lorenzo,1899-12-31T11:35:00Z,23.2,1.9,9,mzn,9,mzn,0,0,2,4,0,0,10,NA
+Los Santos,Luis Gerardo Mora,LUIMOR,2021-04-01T00:00:00Z,9.645252,-84.02538,1399,San José,Tarrazú,San Lorenzo,1899-12-31T08:00:00Z,23.5,1.4,4,mzn,4,mzn,0,0,2,0,1,2,50,NA
+Los Santos,Luis Roberto Ureña Haug,LUIURE,2021-03-30T00:00:00Z,9.6943517,-84.0506783,1742,San José,Leon Cortes,San Pablo,1899-12-31T11:50:00Z,23.7,0.8,3,mzn,3,mzn,1,1,3,0,1,1,25,NA
+Los Santos,Marco Vinicio Retana,MARRET,2021-04-02T00:00:00Z,9.757665,-84.062096,1471,San José,Desamparados,Frailes,1899-12-31T07:49:00Z,19.6,0.9,0.8,ha,0.8,ha,0,0,1,2,4,2,40,NA
+Los Santos,Mauricio Monge Solís,MAUMON,2021-03-30T00:00:00Z,9.7580739,-84.0851302,1361,San José,Desamparados,Frailes,1899-12-31T13:32:00Z,25.5,1.7,1,ha,1,ha,0,0,2,0,0,1,30,NA
+Los Santos,Oscar Navarro,OSCNAV,2021-04-23T00:00:00Z,9.631315,-84.021575,1480,San José,Tarrazú,San Lorenzo,1899-12-31T13:31:00Z,23.4,0.9,2.3,ha,2.3,ha,0,0,1,1,0,2,0,"Al momento de la colecta, presencia de neblina en la zona"
+Los Santos,Otoniel Picado,OTOPIC,2021-04-23T00:00:00Z,9.646235,-84.011563,1432,San José,Tarrazú,San Marcos,1899-12-31T10:37:00Z,25.4,0.8,1,mzn,1,mzn,0,0,1,0,0,1,80,NA
+Los Santos,Rafael Naranjo Abarca,RAFNAR,2021-04-23T00:00:00Z,9.63114167,-84.01707,1556,San José,Tarrazú,San Lorenzo,1899-12-31T12:40:00Z,26.6,1.3,11,mzn,8,mzn,0,0,1,1,0,1,5,NA
+Los Santos,Walter Blanco Corella 2,WALBLA,2021-03-30T00:00:00Z,9.6443294,-84.0680504,1641,San José,Tarrazú,San Lorenzo,1899-12-31T10:08:00Z,23.6,0.8,9,mzn,9,mzn,0,0,2,1,1,1,50,NA
+Los Santos,Wilberth Gamboa Garro,WILGAM,2021-04-01T00:00:00Z,9.652055,-84.031784,1417,San José,Tarrazú,San Marcos,1899-12-31T09:25:00Z,29.5,1.5,2,ha,2,ha,0,0,2,0,2,2,75,NA
+Los Santos,Yohan Mora,YOHMOR,2021-03-31T00:00:00Z,9.6796883,-84.005025,1607,San José,Tarrazú,San Marcos,1899-12-31T11:20:00Z,29.5,1.8,2,mzn,2,mzn,0,0,2,1,1,2,20,Plantaciones de aguacate en propiedades cercanas con atomizo reciente / Colmena trigonas en finca
+Pérez Zeledón,Aurea Torres,AURTOR,2021-04-01T00:00:00Z,9.51434667,-83.667676,1506,San José,Pérez Zeledón,Rivas,1899-12-31T09:55:00Z,27.6,2.6,4,ha,2,ha,0,0,2,2,3,0,50,NA
+Pérez Zeledón,Carlos Hernández,CARHER,2021-03-31T00:00:00Z,9.43384,-83.742755,1317,San José,Pérez Zeledón,Páramo,1899-12-31T11:35:00Z,26.4,0.7,9,ha,7,ha,0,0,1,3,0,1,5,NA
+Pérez Zeledón,Danilo Cordero Retana,DANCOR,2021-03-30T00:00:00Z,9.22993167,-83.686553,1060,San José,Pérez Zeledón,Daniel Flores,1899-12-31T09:10:00Z,24,0.7,5,ha,5,ha,0,0,2,0,0,1,25,En la propiedad hay colonia de mariolas.
+Pérez Zeledón,Eladio Montero,ELAMON,2021-03-31T00:00:00Z,9.47828,-83.77441167,1172,San José,Pérez Zeledón,Páramo,1899-12-31T09:00:00Z,27.8,1.7,26,ha,26,ha,0,0,3,0,0,1,50,Colmena de mariolas en la propiedad
+Pérez Zeledón,Elvis Talavera,ELVTAL,2021-03-30T00:00:00Z,9.35622333,-83.7671183,1172,San José,Pérez Zeledón,San Isidro Del General,1899-12-31T12:11:00Z,27.9,0.7,100,mzn,80,mzn,0,0,2,1,0,2,80,NA
+Pérez Zeledón,Jaime Rojas,JAIROJ,2021-03-31T00:00:00Z,9.398745,-83.79326,1228,San José,Pérez Zeledón,Rio Nuevo,1899-12-31T13:27:00Z,26.7,1.5,4,ha,4,ha,0,0,2,3,0,2,40,NA
+Pérez Zeledón,José Gabriel Ureña,JOSURE,2021-03-29T00:00:00Z,9.19154,-83.611275,775,San José,Pérez Zeledón,Platanares,1899-12-31T10:45:00Z,30.7,1.1,4,ha,4,ha,0,0,1,0,1,2,30,NA
+Pérez Zeledón,Luis Herrera,LUIHER,2021-03-29T00:00:00Z,9.20636167,-83.54410333,661,San José,Pérez Zeledón,Pejibaye,1899-12-31T12:15:00Z,32.3,1.2,4,ha,4,ha,0,0,2,0,0,2,50,NA
+Pérez Zeledón,Luis Mario Bonilla,LUIBON,2021-03-31T00:00:00Z,9.49278167,-83.76124167,1393,San José,Pérez Zeledón,Páramo,1899-12-31T10:20:00Z,23.8,1.3,0.25,mzn,0.25,mzn,0,0,3,0,0,2,5,NA
+Pérez Zeledón,Luis Torres 1,LUITO1,2021-04-01T00:00:00Z,9.499965,-83.661975,1425,San José,Pérez Zeledón,Rivas,1899-12-31T07:45:00Z,23.4,2.5,2,ha,2,ha,0,0,3,2,3,2,50,NA
+Pérez Zeledón,Luis Torres 2,LUITO2,2021-04-01T00:00:00Z,9.50071667,-83.6585816,1501,San José,Pérez Zeledón,Rivas,1899-12-31T08:58:00Z,25.1,0.7,6,ha,6,ha,0,0,3,0,0,2,65,NA
+Pérez Zeledón,Michael Ceciliano,MICCEC,2021-04-01T00:00:00Z,9.21816667,-83.6758183,1042,San José,Pérez Zeledón,Platanares,1899-12-31T13:05:00Z,26.2,1.6,5,ha,5,ha,0,0,2,2,0,2,20,NA
+Pérez Zeledón,Reinier Fallas,REIFAL,2021-03-31T00:00:00Z,9.47640333,-83.79265,1004,San José,Pérez Zeledón,Páramo,1899-12-31T08:08:00Z,27.4,0.1,4,ha,4,ha,0,0,3,3,0,1,90,Finca rodeada de laderas con viento calmo
+Pérez Zeledón,Víctor Hugo Sánchez,VICSAN,2021-03-30T00:00:00Z,9.232475,-83.68500167,932,San José,Pérez Zeledón,Daniel Flores,1899-12-31T07:44:00Z,25.4,0.9,3,mzn,3,mzn,0,0,2,0,0,2,60,NA
+Pérez Zeledón,Allan Quirós,ALLQUI,2021-03-29T00:00:00Z,9.21380667,-83.57843,700,San José,Pérez Zeledón,Pejibaye,1899-12-31T13:17:00Z,32.4,2.3,7,ha,7,ha,0,0,1,0,0,1,50,En la propiedad se observa nido de abejaa.
+Pérez Zeledón,Eduardo Corrales,EDUCOR,2021-03-25T00:00:00Z,9.29165333,-83.56731,675,San José,Pérez Zeledón,Cajón,1899-12-31T09:55:00Z,26.2,1,44447,mzn,2.5,mzn,0,0,1,0,0,1,90,Cultivos pejibayes en los alrededores. Posible uso de agroquímicos.
+Pérez Zeledón,Gabriel Calderón,GABCAL,2021-03-23T00:00:00Z,9.292225,-83.51470833,693,San José,Pérez Zeledón,San Pedro,1899-12-31T09:20:00Z,27.8,0.6,35,ha,3,ha,0,0,1,0,0,2,NA,NA
+Pérez Zeledón,Gerardo Corrales,GERCOR,2021-03-23T00:00:00Z,9.31906863,-83.57891,873,San José,Pérez Zeledón,Cajón,1899-12-31T12:08:00Z,26.2,0.8,25,ha,14,ha,1,1,2,1,0,2,NA,Indicios de aplicación de herbicidas en la finca.
+Pérez Zeledón,German Calderón,GERCAL,2021-03-23T00:00:00Z,9.30985,-83.58120333,790,San José,Pérez Zeledón,Cajón,1899-12-31T11:15:00Z,28.9,0.9,3,ha,1,ha,0,0,2,0,0,2,NA,NA
+Pérez Zeledón,Herberth Von Schroter,HERVON,2021-03-23T00:00:00Z,9.282155,-83.50505167,691,San José,Pérez Zeledón,San Pedro,1899-12-31T08:07:00Z,24.8,0.6,35,ha,15,ha,0,0,2,1,0,1,NA,NA
+Pérez Zeledón,Mario Piedra,MARPIE,2021-03-24T00:00:00Z,9.29442,-83.47321333,1003,Puntarenas,Buenos Aires,Volcan,1899-12-31T09:50:00Z,26.6,0.6,100,ha,60,ha,0,0,2,0,1,2,NA,NA
+Pérez Zeledón,Miguel Chacón,MIGCHA,2021-03-24T00:00:00Z,9.29306948,-83.47847155,980,San José,Pérez Zeledón,San Pedro,1899-12-31T08:35:00Z,23.4,0.8,6,ha,3,ha,0,0,3,1,0,2,NA,En la finca hay colonias de apice y trigonas.
+Pérez Zeledón,Ramiro Valverde,RAMVAL,2021-03-23T00:00:00Z,9.28873833,-83.52194333,728,San José,Pérez Zeledón,San Pedro,1899-12-31T10:03:00Z,30.4,1.5,33,ha,33,ha,0,0,2,2,0,2,NA,NA
+Pérez Zeledón,Víctor Arias 1,VICAR1,2021-03-24T00:00:00Z,9.310065,-83.51575333,866,San José,Pérez Zeledón,San Pedro,1899-12-31T11:00:00Z,26.2,0.7,100,ha,60,ha,0,0,2,0,0,1,10,NA
+Pérez Zeledón,Víctor Arias 2,VICAR2,2021-03-24T00:00:00Z,9.31480333,-83.50849333,1025,San José,Pérez Zeledón,San Pedro,1899-12-31T12:32:00Z,28.2,0.6,40,ha,40,ha,0,0,2,1,0,0,10,NA
+Pérez Zeledón,Víctor Arias 3,VICAR3,2021-03-25T00:00:00Z,9.297065,-83.54352333,648,San José,Pérez Zeledón,San Pedro,1899-12-31T08:26:00Z,30.2,1.1,80,ha,80,ha,0,0,2,0,0,2,50,NA
+Pérez Zeledón,Wilberth Acuña,WILACU,2021-03-25T00:00:00Z,9.38686,-83.676635,799,San José,Pérez Zeledón,Daniel Flores,1899-12-31T12:15:00Z,29.6,2,50,ha,20,ha,0,0,2,0,0,2,35,NA
+Valle Central,Adrián Hernández,ADRHER,2021-04-06T00:00:00Z,10.04465,-84.1122833,1447,Heredia,Barva,San Pablo,1899-12-31T12:30:00Z,27.6,1.1,8,ha,8,ha,0,0,1,0,0,2,40,Finca Alto de Abra
+Valle Central,Carlos Rojas,CARROJ,2021-04-19T00:00:00Z,9.98902833,-84.049625,1205,Heredia,Santo Domingo,San Miguel,1899-12-31T10:41:00Z,26.5,0.8,1,ha,1,ha,0,0,2,0,3,2,95,NA
+Valle Central,Carlos Sánchez 1,CARSA1,2021-04-22T00:00:00Z,10.00064,-84.035503,1274,Heredia,Santo Domingo,Para,1899-12-31T09:58:00Z,20.7,1.2,23,ha,23,ha,1,1,1,2,0,2,0,NA
+Valle Central,Carlos Sánchez 2,CARSA2,2021-04-22T00:00:00Z,10.01009167,-84.06791167,1283,Heredia,San Isidro,San Francisco,1899-12-31T11:20:00Z,24.4,2.2,20,ha,20,ha,1,1,1,1,1,2,50,NA
+Valle Central,Diego Madriz,DIEMAD,2021-04-06T00:00:00Z,10.03383667,-84.127221,1238,Heredia,Barva,San Pedro,1899-12-31T08:09:00Z,25.8,1.4,5,ha,1.5,ha,0,0,1,2,3,2,90,"Cultiva café orgánico. Florea con mucha flor marchita, pero buena actividad de abejas"
+Valle Central,Esquivel Volio 1,ESQVO1,2021-04-07T00:00:00Z,10.071048,-84.129038,1532,Heredia,Santa Barbara,Jesús,1899-12-31T09:06:00Z,23.4,0.8,180,mzn,180,mzn,0,0,2,1,0,0,20,Finca La Silvana
+Valle Central,Esquivel Volio 2,ESQVO2,2021-04-07T00:00:00Z,10.07718,-84.1281867,1614,Heredia,Santa Barbara,Jesús,1899-12-31T09:56:00Z,24.9,1.1,180,mzn,180,mzn,0,0,1,1,0,0,50,Finca La Silvana
+Valle Central,Esquivel Volio 3,ESQVO3,2021-04-07T00:00:00Z,10.07595833,-84.13362167,1613,Heredia,Santa Barbara,Jesús,1899-12-31T10:56:00Z,25.8,1.1,180,mzn,180,mzn,0,0,2,0,0,0,50,Finca La Silvana
+Valle Central,Guararí  2,GUARA2,2021-04-21T00:00:00Z,10.082475,-84.158315,1485,Heredia,Santa Barbara,Santo Domingo,1899-12-31T01:42:00Z,23.8,2.1,140,mzn,140,mzn,0,0,2,1,1,0,20,NA
+Valle Central,Guararí 1,GUARA1,2021-04-21T00:00:00Z,10.0874216,-84.1532683,1534,Heredia,Santa Barbara,Santo Domingo,1899-12-31T12:54:00Z,23.5,1.7,140,mzn,140,mzn,1,1,1,1,0,0,20,NA
+Valle Central,Icafé Barva,ICABAR,2021-04-19T00:00:00Z,10.03478,-84.1352366,1184,Heredia,Barva,San Pedro,1899-12-31T12:37:00Z,26.3,0.9,8,ha,8,ha,0,0,1,0,0,0,5,NA
+Valle Central,La Hilda 1,HILDA1,2021-04-20T00:00:00Z,10.0863183,-84.2363267,1168,Alajuela,Poas,San Pedro,1899-12-31T08:25:00Z,24.4,0.8,440,ha,440,ha,0,0,2,1,1,2,45,NA
+Valle Central,La Hilda 2,HILDA2,2021-04-20T00:00:00Z,10.0942133,-84.2358016,1207,Alajuela,Poas,San Pedro,1899-12-31T09:54:00Z,26.7,1,440,ha,440,ha,0,0,3,2,0,1,30,Propietario tiene colmenas cerca del punto de muestreo
+Valle Central,La Hilda 3,HILDA3,2021-04-21T00:00:00Z,10.10181167,-84.23038,1269,Alajuela,Poas,San Pedro,1899-12-31T08:32:00Z,22.2,0.9,440,ha,440,ha,0,0,2,2,0,0,60,Propietario tiene colmenas cerca del punto de muestreo
+Valle Central,La Hilda 4,HILDA4,2021-04-21T00:00:00Z,10.109523,-84.225433,1439,Alajuela,Poas,San Pedro,1899-12-31T09:28:00Z,24.2,3,440,ha,440,ha,0,0,3,2,0,0,20,NA
+Valle Central,Loma Bonita,LOMBON,2021-04-22T00:00:00Z,10.11070333,-84.1836133,1500,Alajuela,Alajuela,San Isidro,1899-12-31T07:55:00Z,20.3,2.7,47,mzn,47,mzn,1,1,2,0,0,0,35,NA
+Valle Central,Luis Díaz 1,LUIDI1,2021-03-18T00:00:00Z,9.86666667,-84.35319667,1085,San José,Puriscal,Barbacoas,1899-12-31T08:00:00Z,22.2,1.2,2,mzn,2,mzn,0,0,1,1,4,2,NA,NA
+Valle Central,Luis Díaz 2,LUIDI2,2021-03-26T00:00:00Z,9.86678167,-84.35346833,1093,San José,Puriscal,Barbacoas,1899-12-31T13:40:00Z,29.3,0.7,18,ha,18,ha,0,0,1,0,1,2,50,Propiedad tiene un nido de apice
+Valle Central,María Elsa Ruiz 2,MARRU2,2021-04-05T00:00:00Z,10.042505,-84.11711,1390,Heredia,Barva,San José De La Montana,1899-12-31T11:20:00Z,25.2,2.5,2,ha,2,ha,0,0,2,2,3,2,80,NA
+Valle Central,María Elsa Ruiz 3,MARRU3,2021-04-05T00:00:00Z,10.053185,-84.11192,1513,Heredia,Barva,San José De La Montana,1899-12-31T12:16:00Z,25.5,2.4,1.3,ha,1.3,ha,0,0,2,0,0,1,60,NA
+Valle Central,Mario Barquero,MARBAR,2021-04-05T00:00:00Z,10.02714333,-84.1106,1285,Heredia,Barva,Santa Lucia,1899-12-31T09:22:00Z,23.5,1.6,22.5,ha,11.5,ha,0,0,2,2,1,2,50,Finca El Refugio
+Valle Central,Monte Cristo 1,MONCR1,2021-04-21T00:00:00Z,10.09739167,-84.187655,1447,Alajuela,Alajuela,San Isidro,1899-12-31T10:55:00Z,24.2,1.2,100,mzn,100,mzn,0,0,2,1,0,0,20,NA
+Valle Central,Monte Cristo 2,MONCR2,2021-04-21T00:00:00Z,10.1041383,-84.1862233,1462,Alajuela,Alajuela,San Isidro,1899-12-31T11:44:00Z,24.2,2.9,100,mzn,100,mzn,0,0,2,1,0,0,30,NA
+Valle Central,Odilia Ruiz,ODIRUI,2021-04-06T00:00:00Z,10.04346,-84.11246,1439,Heredia,Barva,San Pablo,1899-12-31T10:36:00Z,25.7,1.4,6,ha,6,ha,0,0,2,3,4,2,100,NA
+Valle Central,Olga Marta González,OLGGON,2021-04-19T00:00:00Z,9.99134167,-84.08892667,1153,Heredia,Santo Domingo,San Vicente,1899-12-31T09:23:00Z,26.7,2.2,2,ha,2,ha,0,0,2,1,0,0,95,NA
+Valle Central,Oscar Guzmán 1,OSCGU1,2021-03-26T00:00:00Z,9.83915833,-84.32813,1025,San José,Puriscal,Mercedes Sur,1899-12-31T11:45:00Z,29.6,1.1,4,mzn,0.75,mzn,0,0,2,1,3,2,45,Finca colindante cultiva flores
+Valle Central,Oscar Guzmán 2,OSCGU2,2021-03-26T00:00:00Z,9.841495,-84.3357283,986,San José,Puriscal,Mercedes Sur,1899-12-31T12:55:00Z,29.4,0.7,1,ha,1,ha,0,0,3,1,2,1,30,NA
+Valle Central,Ricardo Ruiz,RICRUI,2021-04-05T00:00:00Z,10.05353167,-84.12032333,1475,Heredia,Barva,San José De La Montana,1899-12-31T13:36:00Z,25.1,5.6,2,ha,2,ha,0,0,2,0,0,0,60,NA
+Valle Central,Rosa María Ruiz,ROSRUI,2021-04-06T00:00:00Z,10.049495,-84.11528833,1474,Heredia,Barva,San José De La Montana,1899-12-31T09:26:00Z,27.5,1.4,2,mzn,2,mzn,0,0,2,0,0,0,50,NA
+Valle Central,Víctor Arias,VICARI,2021-04-19T00:00:00Z,9.979685,-84.10424667,1087,Heredia,San Pablo,Rincón De Sabanilla,1899-12-31T08:16:00Z,25.4,2.1,4,ha,4,ha,0,0,2,0,0,0,95,"La mitad de la finca esta podada, estan cambiando variedad de café"
+Valle Occidental,Carlos Aguilar,CARAGU,2021-04-19T00:00:00Z,10.123175,-84.523692,1078,Alajuela,San Ramon,Piedades Sur,1899-12-31T13:34:00Z,25.1,1,4.6,ha,4.6,ha,0,0,3,1,3,2,5,llovió minutos previos a la recolecta
+Valle Occidental,Carlos Cubero,CARCUB,2021-04-20T00:00:00Z,10.05979,-84.4841283,1090,Alajuela,San Ramon,Santiago,1899-12-31T08:54:00Z,22.5,0,11,ha,10,ha,0,0,3,1,0,2,3,flor esta empezando en estado senescente
+Valle Occidental,Célimo Salas,CELSAL,2021-04-20T00:00:00Z,10.04758,-84.486735,1106,Alajuela,San Ramon,Santiago,1899-12-31T10:51:00Z,26.2,1,5,ha,5,ha,0,0,3,4,3,2,15,NA
+Valle Occidental,Esteban Arrieta Barboza 1,ESTAR1,2021-04-21T00:00:00Z,10.14355,-84.37076,1510,Alajuela,Naranjo,Cirri Sur,1899-12-31T14:10:00Z,27.1,0.7,2,mzn,2,mzn,0,0,3,4,4,2,60,Llovió en los minutos previos a la colecta
+Valle Occidental,Esteban Arrieta Barboza 2,ESTAR2,2021-04-22T00:00:00Z,10.13928,-84.36304,1439,Alajuela,Naranjo,Cirri Sur,1899-12-31T12:59:00Z,24.5,1.6,5,mzn,5,mzn,0,0,3,4,4,2,95,flor esta empezando en estado senescente
+Valle Occidental,Finca El Pilon 1,ELPIL1,2021-04-16T00:00:00Z,10.081654,-84.375301,968,Alajuela,Naranjo,San Miguel,1899-12-31T12:31:00Z,27.1,3.7,84,ha,84,ha,0,0,2,0,0,0,5,NA
+Valle Occidental,Finca El Pilon 2,ELPIL2,2021-04-16T00:00:00Z,10.0770733,-84.37583,998,Alajuela,Naranjo,San Miguel,1899-12-31T12:23:00Z,28.6,4.6,84,ha,84,ha,0,0,3,1,4,0,20,NA
+Valle Occidental,Francisco Rodriguez,FRAROD,2021-04-19T00:00:00Z,10.095669,-84.549135,1116,Alajuela,San Ramon,Piedades Sur,1899-12-31T12:33:00Z,25.1,1,6,mzn,6,mzn,0,0,3,1,0,1,2,NA
+Valle Occidental,Javier Alfaro Camacho,JAVALF,2021-04-22T00:00:00Z,10.1488,-84.32612,1553,Alajuela,Valverde Vega,Sarchi Norte,1899-12-31T10:29:00Z,24.5,2.1,26,mzn,24,mzn,0,0,3,4,4,2,90,NA
+Valle Occidental,José Alberto Esquivel Bonilla,JOSESQ,2021-04-22T00:00:00Z,10.14876,-84.34558,1531,Alajuela,Naranjo,San Jeronimo,1899-12-31T12:03:00Z,24.5,2,12,mzn,8,mzn,0,0,3,0,0,2,80,"Se perdió casi la mitad de la colecta, al estar pinneada se la comieron las hormigas"
+Valle Occidental,José Matamoros,JOSMAT,2021-04-15T00:00:00Z,10.11834333,-84.5257716,1041,Alajuela,San Ramon,Piedades Sur,1899-12-31T08:45:00Z,21.1,0.8,25,ha,10,ha,0,0,3,0,0,1,0,NA
+Valle Occidental,Juan Luis Chavarría,JUACHA,2021-04-16T00:00:00Z,10.02795667,-84.43975167,1043,Alajuela,Palmares,Santiago,1899-12-31T09:25:00Z,26.3,0.8,0.8,ha,0.8,ha,0,0,2,0,0,2,30,NA
+Valle Occidental,Luis Gerardo Quesada,LUIQUE,2021-04-19T00:00:00Z,10.109852,-84.565562,1162,Alajuela,San Ramon,Piedades Sur,1899-12-31T10:27:00Z,25.6,1.4,6,ha,2,ha,0,0,3,4,0,2,12,NA
+Valle Occidental,Luis Jiménez,LUIJIM,2021-05-13T00:00:00Z,10.14328167,-84.356575,1500,Alajuela,Naranjo,Cirrí Sur,1899-12-31T12:04:00Z,25,0.7,16,mzn,14,mzn,0,0,1,0,0,1,0,NA
+Valle Occidental,Marcelino Acuña,MARACU,2021-04-21T00:00:00Z,10.11778,-84.4188,1221,Alajuela,Naranjo,San Juan,1899-12-31T08:13:00Z,22.3,0.6,NA,NA,NA,NA,0,0,3,4,0,2,80,NA
+Valle Occidental,María Elia Fernández,MARFER,2021-04-19T00:00:00Z,10.105118,-84.549881,1094,Alajuela,San Ramon,Piedades Sur,1899-12-31T11:34:00Z,28.8,1,5,ha,5,ha,0,0,3,1,0,1,15,flor esta empezando en estado senescente
+Valle Occidental,Mauricio Herrera,MAUHER,2021-04-20T00:00:00Z,10.0276683,-84.45459,1144,Alajuela,Palmares,Santiago,1899-12-31T12:10:00Z,25.3,1,2,ha,2,ha,0,0,3,0,4,2,1,flor esta empezando en estado senescente
+Valle Occidental,Oscar Durán Alfaro,OSCDUR,2021-04-22T00:00:00Z,10.14728,-84.33731,1504,Alajuela,Valverde Vega,Sarchi Norte,1899-12-31T09:06:00Z,22.2,2,10,ha,10,ha,0,0,3,4,4,2,85,NA
+Valle Occidental,Pedro Sánchez,PEDSAN,2021-04-15T00:00:00Z,10.10731167,-84.50732167,908,Alajuela,San Ramon,Alfaro,1899-12-31T10:03:00Z,23.4,1.4,44,ha,20,ha,1,1,3,0,1,1,0,NA
+Valle Occidental,Rodrigo Vásquez,RODVAZ,2021-04-21T00:00:00Z,10.0292533,-84.45849,1232,Alajuela,Palmares,Zaragoza,1899-12-31T12:55:00Z,22.4,0.6,NA,NA,NA,NA,0,0,3,0,4,1,0,NA
+Valle Occidental,Sergio Salas,SERSAL,2021-04-20T00:00:00Z,10.05261,-84.4841283,1094,Alajuela,San Ramon,Santiago,1899-12-31T09:45:00Z,26.1,0.7,10,mzn,10,mzn,0,0,3,1,2,2,2,flor esta empezando en estado senescente
+Valle Occidental,Víctor Dimas Cabezas,VICDIM,2021-04-21T00:00:00Z,10.11957,-84.40732,1238,Alajuela,Naranjo,San Juan,1899-12-31T10:19:00Z,23.1,1.4,5,mzn,5,mzn,0,0,3,4,0,2,2,NA
+Turrialba,Alexis Meoño,ALEMEO,NA,9.861864,-83.618395,716,Cartago,Turrialba,LA SUIZA,NA,NA,NA,2.76,ha,2.42,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,Alexis Solano Fallas,ALESOL,NA,9.983095,-83.6538,872,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,1,ha,1,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Alexis Vega,ALEVEG,NA,9.964988,-83.66213,791,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,3.5,ha,1,ha,NA,NA,NA,NA,NA,1,NA,NA
+Turrialba,Antonio Salazar,ANTSAL,NA,9.834009,-83.595304,795,Cartago,Turrialba,TUIS,NA,NA,NA,0.34,ha,0.34,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,Bernardo Hidalgo,BERHID,NA,9.87533,-83.61735,887,Cartago,Turrialba,LA SUIZA,NA,NA,NA,2,ha,0.5,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,Eliseo Brenes Naranjo,ELIBRE,NA,9.943508,-83.709458,1026,Cartago,Turrialba,SANTA ROSA,NA,NA,NA,1.38,ha,1.38,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,Emilce Fuentes,EMIFUE,NA,9.90874,-83.63053,740,Cartago,Turrialba,PAVONES,NA,NA,NA,4,ha,4,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,Evelio Brenes Meneses,EVEBRE,NA,9.94565,-83.65599,672,Cartago,Turrialba,LA ISABEL,NA,NA,NA,3.1,ha,3.1,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Francisco Esquivel,FRAESQ,NA,9.972182,-83.678617,959,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,3,ha,2,ha,NA,NA,NA,NA,NA,1,NA,NA
+Turrialba,Gerardo Araya Solano,GERARA,NA,9.88786,-83.57619,826,Cartago,Turrialba,LA SUIZA,NA,NA,NA,2.07,ha,0.34,ha,NA,NA,NA,NA,NA,1,NA,NA
+Turrialba,German Porras #1 [casa],GPHOME,NA,9.98451,-83.65649,920,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,2,ha,2,ha,NA,NA,NA,NA,NA,1,NA,NA
+Turrialba,German Porras #2 [tía],GPAUNT,NA,9.982761,-83.656089,900,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,2,ha,2,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Guillermo Rivera Ramírez,GUIRAM,NA,9.974193,-83.685904,1110,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,6,ha,1,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Henning Von Platen,HENVON,NA,9.843963,-83.597419,673,Cartago,Turrialba,LA SUIZA,NA,NA,NA,31,ha,25,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,José Manuel Vega,JMAVEG,NA,9.97292,-83.663841,842,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,30,ha,3,ha,NA,NA,NA,NA,NA,1,NA,NA
+Turrialba,José Medrano,JOSMED,NA,9.829432,-83.592628,875,Cartago,Turrialba,TUIS,NA,NA,NA,1,ha,1,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,Lidier Díaz #1 [casa],LDHOME,NA,9.8979,-83.61591,932,Cartago,Turrialba,PAVONES,NA,NA,NA,8,ha,3,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,Lidier Díaz #2 [parcela arriba],LDPLOT,NA,9.89048,-83.61385,993,Cartago,Turrialba,PAVONES,NA,NA,NA,8,ha,3,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Mauro Campos Solano,MAUCAM,NA,9.980311,-83.64865,845,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,1.38,ha,1.38,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Miguel Núñez #1 [casa],MNHOME,NA,-83.60772,9.86374999599999,889,Cartago,Turrialba,LA SUIZA,NA,NA,NA,NA,NA,1.04,ha,NA,NA,NA,NA,NA,1,NA,NA
+Turrialba,Miguel Núñez #2 [parcela arriba],MNPLOT,NA,-83.60933,9.86261,849,Cartago,Turrialba,LA SUIZA,NA,NA,NA,NA,NA,1.04,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,Olman Bravo,OLMBRA,NA,9.97211,-83.680315,955,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,6,ha,4,ha,NA,NA,NA,NA,NA,1,NA,NA
+Turrialba,Rigoberto Coto,RIGCOT,NA,9.966802,-83.686087,1063,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,4,ha,2.5,ha,NA,NA,NA,NA,NA,2,NA,NA
+Turrialba,Rigoberto Ureña,RIGURE,NA,9.966404,-83.6834,1042,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,19.5,ha,6,ha,NA,NA,NA,NA,NA,1,NA,NA
+Turrialba,Rolando Pérez Morales,ROLPER,NA,9.97025,-83.65339,737,Cartago,Turrialba,SANTA TERESITA,NA,NA,NA,1,ha,0.35,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Sta. Rosa #1 - Víctor Arrieta,STAROS,NA,9.93104,-83.699949,840,Cartago,Turrialba,SANTA ROSA,NA,NA,NA,26,ha,24,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Sta. Rosa #2 - José Cordero,SRPLOT,NA,9.914045,-83.713156,1000,Cartago,Turrialba,TURRIALBA,NA,NA,NA,26,ha,24,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Víctor Manuel Quiróz Esquivel,VICQUI,NA,9.893465,-83.580946,948,Cartago,Turrialba,LA SUIZA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+Turrialba,Víctor Ramírez,VICRAM,NA,9.904988,-83.640928,805,Cartago,Turrialba,PAVONES,NA,NA,NA,5,ha,5,ha,NA,NA,NA,NA,NA,0,NA,NA
+Turrialba,Víctor Salmerón,VICSAL,NA,9.83833,-83.59391,727,Cartago,Turrialba,TUIS,NA,NA,NA,3,ha,2.5,ha,NA,NA,NA,NA,NA,2,NA,NA

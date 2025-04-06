@@ -1,0 +1,666 @@
+farm_code,region,date,elevation_m,order,family,tribe,genus,species,codsp,common_name,abundance
+1,Los Santos,2021-05-18T00:00:00Z,1756,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",27
+1,Los Santos,2021-05-18T00:00:00Z,1756,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+1,Los Santos,2021-05-18T00:00:00Z,1756,Hymenoptera,Apidae,Meliponini,Scaptotrigona,subobscuripennis,SCASUB,"Soncuano negro, picúsaro",1
+1,Los Santos,2021-05-18T00:00:00Z,1756,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",3
+1,Los Santos,2021-05-18T00:00:00Z,1756,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+2,Los Santos,2021-04-06T00:00:00Z,1727,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+2,Los Santos,2021-04-06T00:00:00Z,1727,Hymenoptera,Apidae,Meliponini,Scaptotrigona,subobscuripennis,SCASUB,"Soncuano negro, picúsaro",1
+2,Los Santos,2021-04-06T00:00:00Z,1727,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+2,Los Santos,2021-04-06T00:00:00Z,1727,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+3,Los Santos,2021-03-31T00:00:00Z,1428,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",5
+3,Los Santos,2021-03-31T00:00:00Z,1428,Hymenoptera,Apidae,Centridini,Epicharis,unknown,EPISPP,Unknown,1
+3,Los Santos,2021-03-31T00:00:00Z,1428,Hymenoptera,Apidae,Meliponini,Paratrigona,ornaticeps,PARORN,Limoncito,1
+3,Los Santos,2021-03-31T00:00:00Z,1428,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",4
+3,Los Santos,2021-03-31T00:00:00Z,1428,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+4,Los Santos,2021-03-29T00:00:00Z,1497,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",12
+4,Los Santos,2021-03-29T00:00:00Z,1497,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+5,Los Santos,2021-03-29T00:00:00Z,1364,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+5,Los Santos,2021-03-29T00:00:00Z,1364,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",12
+6,Los Santos,2021-03-31T00:00:00Z,1722,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",5
+6,Los Santos,2021-03-31T00:00:00Z,1722,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",7
+6,Los Santos,2021-03-31T00:00:00Z,1722,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+7,Los Santos,2021-04-02T00:00:00Z,1542,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+7,Los Santos,2021-04-02T00:00:00Z,1542,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",6
+8,Los Santos,2021-04-06T00:00:00Z,2046,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",24
+8,Los Santos,2021-04-06T00:00:00Z,2046,Hymenoptera,Apidae,Bombini,Bombus,ephippiatus,BOMEPH,Chiquizá,1
+8,Los Santos,2021-04-06T00:00:00Z,2046,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",8
+8,Los Santos,2021-04-06T00:00:00Z,2046,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",6
+8,Los Santos,2021-04-06T00:00:00Z,2046,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+9,Los Santos,2021-03-30T00:00:00Z,1588,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+9,Los Santos,2021-03-30T00:00:00Z,1588,Hymenoptera,Apidae,Meliponini,Melipona,costaricensis,MELCOS,"Jicote barcino, ocular",3
+9,Los Santos,2021-03-30T00:00:00Z,1588,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",5
+9,Los Santos,2021-03-30T00:00:00Z,1588,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",26
+9,Los Santos,2021-03-30T00:00:00Z,1588,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+10,Los Santos,2021-03-29T00:00:00Z,1430,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",2
+10,Los Santos,2021-03-29T00:00:00Z,1430,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+10,Los Santos,2021-03-29T00:00:00Z,1430,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+11,Los Santos,2021-05-18T00:00:00Z,1698,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",15
+11,Los Santos,2021-05-18T00:00:00Z,1698,Hymenoptera,Apidae,Bombini,Bombus,ephippiatus,BOMEPH,Chiquizá,1
+11,Los Santos,2021-05-18T00:00:00Z,1698,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+11,Los Santos,2021-05-18T00:00:00Z,1698,Hymenoptera,Apidae,Xylocopini,Xylocopa,tabaniformis,XYLTAB,"Chiquizá, carpintera",1
+12,Los Santos,2021-03-30T00:00:00Z,1506,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",8
+12,Los Santos,2021-03-30T00:00:00Z,1506,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+13,Los Santos,2021-04-02T00:00:00Z,1584,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+13,Los Santos,2021-04-02T00:00:00Z,1584,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",12
+14,Los Santos,2021-04-23T00:00:00Z,1852,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",18
+14,Los Santos,2021-04-23T00:00:00Z,1852,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+14,Los Santos,2021-04-23T00:00:00Z,1852,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+15,Los Santos,2021-04-05T00:00:00Z,1903,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",11
+15,Los Santos,2021-04-05T00:00:00Z,1903,Hymenoptera,Apidae,Meliponini,Scaptotrigona,subobscuripennis,SCASUB,"Soncuano negro, picúsaro",1
+15,Los Santos,2021-04-05T00:00:00Z,1903,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+15,Los Santos,2021-04-05T00:00:00Z,1903,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",9
+16,Los Santos,2021-04-02T00:00:00Z,1539,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",7
+16,Los Santos,2021-04-02T00:00:00Z,1539,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+17,Los Santos,2021-03-31T00:00:00Z,1770,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+17,Los Santos,2021-03-31T00:00:00Z,1770,Hymenoptera,Apidae,Meliponini,Scaptotrigona,subobscuripennis,SCASUB,"Soncuano negro, picúsaro",5
+17,Los Santos,2021-03-31T00:00:00Z,1770,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+18,Los Santos,2021-03-31T00:00:00Z,1624,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+18,Los Santos,2021-03-31T00:00:00Z,1624,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+18,Los Santos,2021-03-31T00:00:00Z,1624,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",3
+18,Los Santos,2021-03-31T00:00:00Z,1624,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",11
+18,Los Santos,2021-03-31T00:00:00Z,1624,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+19,Los Santos,2021-04-06T00:00:00Z,1880,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",15
+19,Los Santos,2021-04-06T00:00:00Z,1880,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+19,Los Santos,2021-04-06T00:00:00Z,1880,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+19,Los Santos,2021-04-06T00:00:00Z,1880,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+21,Los Santos,2021-04-01T00:00:00Z,1749,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+21,Los Santos,2021-04-01T00:00:00Z,1749,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",3
+21,Los Santos,2021-04-01T00:00:00Z,1749,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+20,Los Santos,2021-04-06T00:00:00Z,2117,Hymenoptera,Apidae,Bombini,Bombus,ephippiatus,BOMEPH,Chiquizá,4
+20,Los Santos,2021-04-06T00:00:00Z,2117,Hymenoptera,Apidae,Bombini,Bombus,melaleucus,BOMMEL,Chiquizá,2
+22,Los Santos,2021-05-18T00:00:00Z,1779,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",16
+22,Los Santos,2021-05-18T00:00:00Z,1779,Hymenoptera,Apidae,Bombini,Bombus,ephippiatus,BOMEPH,Chiquizá,1
+22,Los Santos,2021-05-18T00:00:00Z,1779,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",5
+23,Los Santos,2021-04-23T00:00:00Z,1523,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+23,Los Santos,2021-04-23T00:00:00Z,1523,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+23,Los Santos,2021-04-23T00:00:00Z,1523,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",4
+24,Los Santos,2021-04-01T00:00:00Z,1399,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+24,Los Santos,2021-04-01T00:00:00Z,1399,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+24,Los Santos,2021-04-01T00:00:00Z,1399,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+24,Los Santos,2021-04-01T00:00:00Z,1399,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",8
+25,Los Santos,2021-03-30T00:00:00Z,1742,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+25,Los Santos,2021-03-30T00:00:00Z,1742,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",6
+25,Los Santos,2021-03-30T00:00:00Z,1742,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",2
+26,Los Santos,2021-04-02T00:00:00Z,1471,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",6
+27,Los Santos,2021-03-30T00:00:00Z,1361,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+28,Los Santos,2021-04-23T00:00:00Z,1480,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+28,Los Santos,2021-04-23T00:00:00Z,1480,Hymenoptera,Apidae,Bombini,Bombus,ephippiatus,BOMEPH,Chiquizá,1
+28,Los Santos,2021-04-23T00:00:00Z,1480,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+28,Los Santos,2021-04-23T00:00:00Z,1480,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+29,Los Santos,2021-04-23T00:00:00Z,1432,Diptera,Unknown,Unknown,Unknown,unknown,DIPSPP,Unknown,1
+29,Los Santos,2021-04-23T00:00:00Z,1432,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",6
+29,Los Santos,2021-04-23T00:00:00Z,1432,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",11
+29,Los Santos,2021-04-23T00:00:00Z,1432,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+30,Los Santos,2021-04-23T00:00:00Z,1556,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",9
+30,Los Santos,2021-04-23T00:00:00Z,1556,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+31,Los Santos,2021-03-30T00:00:00Z,1641,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+31,Los Santos,2021-03-30T00:00:00Z,1641,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",14
+31,Los Santos,2021-03-30T00:00:00Z,1641,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+32,Los Santos,2021-04-01T00:00:00Z,1417,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",5
+32,Los Santos,2021-04-01T00:00:00Z,1417,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+32,Los Santos,2021-04-01T00:00:00Z,1417,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",7
+33,Los Santos,2021-03-31T00:00:00Z,1607,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+33,Los Santos,2021-03-31T00:00:00Z,1607,Hymenoptera,Apidae,Meliponini,Scaptotrigona,subobscuripennis,SCASUB,"Soncuano negro, picúsaro",1
+33,Los Santos,2021-03-31T00:00:00Z,1607,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+48,Pérez Zeledón,2021-03-29T00:00:00Z,700,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",5
+48,Pérez Zeledón,2021-03-29T00:00:00Z,700,Hymenoptera,Apidae,Meliponini,Melipona,costaricensis,MELCOS,"Jicote barcino, ocular",1
+48,Pérez Zeledón,2021-03-29T00:00:00Z,700,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+48,Pérez Zeledón,2021-03-29T00:00:00Z,700,Hymenoptera,Apidae,Meliponini,Tetragona,perangulata,TETPER,"Mariolón sin piquera, cebrita",1
+48,Pérez Zeledón,2021-03-29T00:00:00Z,700,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+48,Pérez Zeledón,2021-03-29T00:00:00Z,700,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+34,Pérez Zeledón,2021-04-01T00:00:00Z,1506,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",9
+34,Pérez Zeledón,2021-04-01T00:00:00Z,1506,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+34,Pérez Zeledón,2021-04-01T00:00:00Z,1506,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+34,Pérez Zeledón,2021-04-01T00:00:00Z,1506,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+35,Pérez Zeledón,2021-03-31T00:00:00Z,1317,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",20
+35,Pérez Zeledón,2021-03-31T00:00:00Z,1317,Hymenoptera,Apidae,Meliponini,Melipona,costaricensis,MELCOS,"Jicote barcino, ocular",2
+35,Pérez Zeledón,2021-03-31T00:00:00Z,1317,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",5
+35,Pérez Zeledón,2021-03-31T00:00:00Z,1317,Hymenoptera,Apidae,Meliponini,Plebeia,pulchra,PLEPUL,Chupa ojos,1
+35,Pérez Zeledón,2021-03-31T00:00:00Z,1317,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",6
+35,Pérez Zeledón,2021-03-31T00:00:00Z,1317,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,7
+36,Pérez Zeledón,2021-03-30T00:00:00Z,1060,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",25
+36,Pérez Zeledón,2021-03-30T00:00:00Z,1060,Hymenoptera,Apidae,Meliponini,Oxytrigona,mellicolor,OXYMEL,"Peladora, mea fuego",14
+36,Pérez Zeledón,2021-03-30T00:00:00Z,1060,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",6
+36,Pérez Zeledón,2021-03-30T00:00:00Z,1060,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,1
+36,Pérez Zeledón,2021-03-30T00:00:00Z,1060,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",6
+36,Pérez Zeledón,2021-03-30T00:00:00Z,1060,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+36,Pérez Zeledón,2021-03-30T00:00:00Z,1060,Hymenoptera,Apidae,Unknown,Unknown,unknown,APISPP,Unknown,1
+36,Pérez Zeledón,2021-03-30T00:00:00Z,1060,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+49,Pérez Zeledón,2021-03-25T00:00:00Z,675,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+49,Pérez Zeledón,2021-03-25T00:00:00Z,675,Hymenoptera,Apidae,Meliponini,Nannotrigona,melleria,NANMEL,Chicopipe,1
+49,Pérez Zeledón,2021-03-25T00:00:00Z,675,Hymenoptera,Apidae,Meliponini,Tetragona,ziegleri,TETZIE,"Mariolón, miel de leche, baba de buey",1
+49,Pérez Zeledón,2021-03-25T00:00:00Z,675,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+49,Pérez Zeledón,2021-03-25T00:00:00Z,675,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,2
+37,Pérez Zeledón,2021-03-31T00:00:00Z,1172,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",18
+37,Pérez Zeledón,2021-03-31T00:00:00Z,1172,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+37,Pérez Zeledón,2021-03-31T00:00:00Z,1172,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+38,Pérez Zeledón,2021-03-30T00:00:00Z,1172,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",25
+38,Pérez Zeledón,2021-03-30T00:00:00Z,1172,Hymenoptera,Apidae,Euglossini,Eulaema,cingulata,EULCIN,"Chiquizá, abeja de las orquídeas",1
+38,Pérez Zeledón,2021-03-30T00:00:00Z,1172,Hymenoptera,Apidae,Meliponini,Melipona,falax,MELFAL,Jicote congo,1
+50,Pérez Zeledón,2021-03-23T00:00:00Z,693,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+50,Pérez Zeledón,2021-03-23T00:00:00Z,693,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+50,Pérez Zeledón,2021-03-23T00:00:00Z,693,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,2
+50,Pérez Zeledón,2021-03-23T00:00:00Z,693,Hymenoptera,Apidae,Meliponini,Tetragona,ziegleri,TETZIE,"Mariolón, miel de leche, baba de buey",1
+50,Pérez Zeledón,2021-03-23T00:00:00Z,693,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",13
+50,Pérez Zeledón,2021-03-23T00:00:00Z,693,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+50,Pérez Zeledón,2021-03-23T00:00:00Z,693,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,3
+50,Pérez Zeledón,2021-03-23T00:00:00Z,693,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+51,Pérez Zeledón,2021-03-23T00:00:00Z,873,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+51,Pérez Zeledón,2021-03-23T00:00:00Z,873,Hymenoptera,Apidae,Meliponini,Cephalotrigona,zexmeniae,CEPZEX,"Tamagá, tamagá amarillo",1
+51,Pérez Zeledón,2021-03-23T00:00:00Z,873,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+51,Pérez Zeledón,2021-03-23T00:00:00Z,873,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",6
+51,Pérez Zeledón,2021-03-23T00:00:00Z,873,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",3
+51,Pérez Zeledón,2021-03-23T00:00:00Z,873,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",2
+51,Pérez Zeledón,2021-03-23T00:00:00Z,873,Hymenoptera,Unknown,Unknown,Unknown,unknown,HYMSPP,Unknown,1
+52,Pérez Zeledón,2021-03-23T00:00:00Z,790,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",10
+52,Pérez Zeledón,2021-03-23T00:00:00Z,790,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+52,Pérez Zeledón,2021-03-23T00:00:00Z,790,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+53,Pérez Zeledón,2021-03-23T00:00:00Z,691,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",11
+53,Pérez Zeledón,2021-03-23T00:00:00Z,691,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+53,Pérez Zeledón,2021-03-23T00:00:00Z,691,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+53,Pérez Zeledón,2021-03-23T00:00:00Z,691,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+53,Pérez Zeledón,2021-03-23T00:00:00Z,691,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+53,Pérez Zeledón,2021-03-23T00:00:00Z,691,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",3
+53,Pérez Zeledón,2021-03-23T00:00:00Z,691,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+39,Pérez Zeledón,2021-03-31T00:00:00Z,1228,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",10
+39,Pérez Zeledón,2021-03-31T00:00:00Z,1228,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+40,Pérez Zeledón,2021-03-29T00:00:00Z,775,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",13
+40,Pérez Zeledón,2021-03-29T00:00:00Z,775,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+40,Pérez Zeledón,2021-03-29T00:00:00Z,775,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+40,Pérez Zeledón,2021-03-29T00:00:00Z,775,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,2
+40,Pérez Zeledón,2021-03-29T00:00:00Z,775,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,2
+41,Pérez Zeledón,2021-03-29T00:00:00Z,661,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+41,Pérez Zeledón,2021-03-29T00:00:00Z,661,Hymenoptera,Apidae,Meliponini,Cephalotrigona,zexmeniae,CEPZEX,"Tamagá, tamagá amarillo",1
+41,Pérez Zeledón,2021-03-29T00:00:00Z,661,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+41,Pérez Zeledón,2021-03-29T00:00:00Z,661,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",2
+42,Pérez Zeledón,2021-03-31T00:00:00Z,1393,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",5
+42,Pérez Zeledón,2021-03-31T00:00:00Z,1393,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+42,Pérez Zeledón,2021-03-31T00:00:00Z,1393,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+43,Pérez Zeledón,2021-04-01T00:00:00Z,1425,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",8
+43,Pérez Zeledón,2021-04-01T00:00:00Z,1425,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",8
+43,Pérez Zeledón,2021-04-01T00:00:00Z,1425,Hymenoptera,Apidae,Meliponini,Scaptotrigona,subobscuripennis,SCASUB,"Soncuano negro, picúsaro",1
+43,Pérez Zeledón,2021-04-01T00:00:00Z,1425,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",3
+43,Pérez Zeledón,2021-04-01T00:00:00Z,1425,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",16
+44,Pérez Zeledón,2021-04-01T00:00:00Z,1501,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",16
+44,Pérez Zeledón,2021-04-01T00:00:00Z,1501,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+44,Pérez Zeledón,2021-04-01T00:00:00Z,1501,Hymenoptera,Apidae,Meliponini,Scaptotrigona,subobscuripennis,SCASUB,"Soncuano negro, picúsaro",1
+44,Pérez Zeledón,2021-04-01T00:00:00Z,1501,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+44,Pérez Zeledón,2021-04-01T00:00:00Z,1501,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",5
+44,Pérez Zeledón,2021-04-01T00:00:00Z,1501,Hymenoptera,Megachilidae,Unknown,Unknown,unknown,MEGSPP,Unknown,1
+54,Pérez Zeledón,2021-03-24T00:00:00Z,1003,Diptera,Unknown,Unknown,Unknown,unknown,DIPSPP,Unknown,1
+54,Pérez Zeledón,2021-03-24T00:00:00Z,1003,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",30
+54,Pérez Zeledón,2021-03-24T00:00:00Z,1003,Hymenoptera,Apidae,Meliponini,Oxytrigona,mellicolor,OXYMEL,"Peladora, mea fuego",3
+54,Pérez Zeledón,2021-03-24T00:00:00Z,1003,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",6
+54,Pérez Zeledón,2021-03-24T00:00:00Z,1003,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",4
+54,Pérez Zeledón,2021-03-24T00:00:00Z,1003,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",3
+54,Pérez Zeledón,2021-03-24T00:00:00Z,1003,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+45,Pérez Zeledón,2021-04-01T00:00:00Z,1042,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",32
+45,Pérez Zeledón,2021-04-01T00:00:00Z,1042,Hymenoptera,Apidae,Meliponini,Plebeia,pulchra,PLEPUL,Chupa ojos,1
+45,Pérez Zeledón,2021-04-01T00:00:00Z,1042,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+45,Pérez Zeledón,2021-04-01T00:00:00Z,1042,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Coleoptera,Unknown,Unknown,Unknown,unknown,COLSPP,Unknown,1
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Diptera,Unknown,Unknown,Unknown,unknown,DIPSPP,Unknown,1
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Homoptera,Unknown,Unknown,Unknown,unknown,HOMSPP,Unknown,2
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",23
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Hymenoptera,Apidae,Bombini,Bombus,melaleucus,BOMMEL,Chiquizá,1
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",12
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",9
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Hymenoptera,Apidae,Meliponini,Tetragonisca,buchwaldi,TETBUC,Mariola negra,1
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",6
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+56,Pérez Zeledón,2021-03-23T00:00:00Z,728,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+56,Pérez Zeledón,2021-03-23T00:00:00Z,728,Hymenoptera,Apidae,Meliponini,Cephalotrigona,zexmeniae,CEPZEX,"Tamagá, tamagá amarillo",3
+56,Pérez Zeledón,2021-03-23T00:00:00Z,728,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",3
+56,Pérez Zeledón,2021-03-23T00:00:00Z,728,Hymenoptera,Apidae,Meliponini,Plebeia,jatiformis,PLEJAT,"Chupa ojos, mariola sin piquera",2
+56,Pérez Zeledón,2021-03-23T00:00:00Z,728,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",5
+56,Pérez Zeledón,2021-03-23T00:00:00Z,728,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+56,Pérez Zeledón,2021-03-23T00:00:00Z,728,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+56,Pérez Zeledón,2021-03-23T00:00:00Z,728,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",4
+46,Pérez Zeledón,2021-03-31T00:00:00Z,1004,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",6
+57,Pérez Zeledón,2021-03-24T00:00:00Z,866,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",21
+57,Pérez Zeledón,2021-03-24T00:00:00Z,866,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+57,Pérez Zeledón,2021-03-24T00:00:00Z,866,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+57,Pérez Zeledón,2021-03-24T00:00:00Z,866,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+58,Pérez Zeledón,2021-03-24T00:00:00Z,1025,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",15
+58,Pérez Zeledón,2021-03-24T00:00:00Z,1025,Hymenoptera,Apidae,Meliponini,Plebeia,llorentei,PLELLO,Chupa ojos,1
+58,Pérez Zeledón,2021-03-24T00:00:00Z,1025,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+59,Pérez Zeledón,2021-03-25T00:00:00Z,648,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",9
+59,Pérez Zeledón,2021-03-25T00:00:00Z,648,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+59,Pérez Zeledón,2021-03-25T00:00:00Z,648,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+59,Pérez Zeledón,2021-03-25T00:00:00Z,648,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+59,Pérez Zeledón,2021-03-25T00:00:00Z,648,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,2
+59,Pérez Zeledón,2021-03-25T00:00:00Z,648,Orthoptera,Unknown,Unknown,Unknown,unknown,ORTSPP,Unknown,1
+47,Pérez Zeledón,2021-03-30T00:00:00Z,932,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",21
+47,Pérez Zeledón,2021-03-30T00:00:00Z,932,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+47,Pérez Zeledón,2021-03-30T00:00:00Z,932,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+47,Pérez Zeledón,2021-03-30T00:00:00Z,932,Hymenoptera,Apidae,Meliponini,Tetragonisca,buchwaldi,TETBUC,Mariola negra,6
+47,Pérez Zeledón,2021-03-30T00:00:00Z,932,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+47,Pérez Zeledón,2021-03-30T00:00:00Z,932,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Diptera,Unknown,Unknown,Unknown,unknown,DIPSPP,Unknown,2
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",10
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Oxytrigona,mellicolor,OXYMEL,"Peladora, mea fuego",1
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",8
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Plebeia,llorentei,PLELLO,Chupa ojos,1
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,1
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,2
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Tetragona,perangulata,TETPER,"Mariolón sin piquera, cebrita",1
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",6
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",5
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+113,Turrialba,NA,716,Hymenoptera,Apidae,Meliponini,Paratrigona,ornaticeps,PARORN,Limoncito,1
+113,Turrialba,NA,716,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",3
+113,Turrialba,NA,716,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+113,Turrialba,NA,716,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+113,Turrialba,NA,716,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+114,Turrialba,NA,872,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",2
+114,Turrialba,NA,872,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",3
+114,Turrialba,NA,872,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",4
+114,Turrialba,NA,872,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",11
+114,Turrialba,NA,872,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",1
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Partamona,musarum,PARMUS,Unknown,5
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,4
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+115,Turrialba,NA,791,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+115,Turrialba,NA,791,Hymenoptera,Halictidae,Halictini,Unknown,unknown,HLCSPP,Unknown,1
+116,Turrialba,NA,795,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+116,Turrialba,NA,795,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",6
+116,Turrialba,NA,795,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+116,Turrialba,NA,795,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,5
+116,Turrialba,NA,795,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+116,Turrialba,NA,795,Hymenoptera,Apidae,Meliponini,Trigona,cilipes,TRICIL,Unknown,1
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",4
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Nogueirapis,mirandula,NOGMIR,Unknown,1
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Oxytrigona,mellicolor,OXYMEL,"Peladora, mea fuego",3
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",7
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,6
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,2
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",6
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",3
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",3
+117,Turrialba,NA,887,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,1
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,3
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,1
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",4
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",3
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+118,Turrialba,NA,1026,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+119,Turrialba,NA,740,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+119,Turrialba,NA,740,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",3
+119,Turrialba,NA,740,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",7
+119,Turrialba,NA,740,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",2
+120,Turrialba,NA,672,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",14
+120,Turrialba,NA,672,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,1
+120,Turrialba,NA,672,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+120,Turrialba,NA,672,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,1
+120,Turrialba,NA,672,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+120,Turrialba,NA,672,Hymenoptera,Apidae,Meliponini,Trigona,unknown,TRISPP,Unknown,1
+120,Turrialba,NA,672,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+120,Turrialba,NA,672,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+120,Turrialba,NA,672,Hymenoptera,Halictidae,Halictini,Lasioglossum,unknown,LASSPP,Unknown,1
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",1
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Paratrigona,lophocoryphe,PARLOP,Limoncito,1
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Paratrigona,opaca,PAROPA,Limoncito,1
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Partamona,musarum,PARMUS,Unknown,2
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Plebeia,jatiformis,PLEJAT,"Chupa ojos, mariola sin piquera",2
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+121,Turrialba,NA,959,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,2
+121,Turrialba,NA,959,Hymenoptera,Halictidae,Halictini,Unknown,unknown,HLCSPP,Unknown,1
+122,Turrialba,NA,826,Hymenoptera,Apidae,Meliponini,Cephalotrigona,zexmeniae,CEPZEX,"Tamagá, tamagá amarillo",3
+122,Turrialba,NA,826,Hymenoptera,Apidae,Meliponini,Melipona,costaricensis,MELCOS,"Jicote barcino, ocular",1
+122,Turrialba,NA,826,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",2
+122,Turrialba,NA,826,Hymenoptera,Apidae,Meliponini,Oxytrigona,mellicolor,OXYMEL,"Peladora, mea fuego",1
+122,Turrialba,NA,826,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+122,Turrialba,NA,826,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,1
+122,Turrialba,NA,826,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+122,Turrialba,NA,826,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+122,Turrialba,NA,826,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+123,Turrialba,NA,920,Hymenoptera,Apidae,Meliponini,Melipona,costaricensis,MELCOS,"Jicote barcino, ocular",1
+123,Turrialba,NA,920,Hymenoptera,Apidae,Meliponini,Partamona,musarum,PARMUS,Unknown,2
+123,Turrialba,NA,920,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,1
+123,Turrialba,NA,920,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",3
+123,Turrialba,NA,920,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+123,Turrialba,NA,920,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+123,Turrialba,NA,920,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+124,Turrialba,NA,900,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",2
+124,Turrialba,NA,900,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+124,Turrialba,NA,900,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,1
+124,Turrialba,NA,900,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",3
+124,Turrialba,NA,900,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",8
+124,Turrialba,NA,900,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",3
+124,Turrialba,NA,900,Hymenoptera,Halictidae,Halictini,Halictus,unknown,HALSPP,Unknown,1
+125,Turrialba,NA,1110,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+125,Turrialba,NA,1110,Hymenoptera,Apidae,Bombini,Bombus,melaleucus,BOMMEL,Chiquizá,1
+125,Turrialba,NA,1110,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+125,Turrialba,NA,1110,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+125,Turrialba,NA,1110,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",4
+125,Turrialba,NA,1110,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+126,Turrialba,NA,673,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",2
+126,Turrialba,NA,673,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",3
+126,Turrialba,NA,673,Hymenoptera,Apidae,Meliponini,Partamona,musarum,PARMUS,Unknown,7
+126,Turrialba,NA,673,Hymenoptera,Apidae,Meliponini,Plebeia,unknown,PLESPP,Chupa ojos,1
+126,Turrialba,NA,673,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,2
+126,Turrialba,NA,673,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,2
+126,Turrialba,NA,673,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",5
+126,Turrialba,NA,673,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",6
+126,Turrialba,NA,673,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+127,Turrialba,NA,842,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+127,Turrialba,NA,842,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,2
+127,Turrialba,NA,842,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",4
+127,Turrialba,NA,842,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+128,Turrialba,NA,875,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",1
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,1
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Tetragona,ziegleri,TETZIE,"Mariolón, miel de leche, baba de buey",2
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",3
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Trigona,ferricauda,TRIFER,Unknown,1
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Trigona,fuscipennis,TRIFUS,"Atarrá, enredapelos",5
+128,Turrialba,NA,875,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",2
+129,Turrialba,NA,932,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+129,Turrialba,NA,932,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",3
+129,Turrialba,NA,932,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+129,Turrialba,NA,932,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",5
+129,Turrialba,NA,932,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",6
+129,Turrialba,NA,932,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",2
+129,Turrialba,NA,932,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+129,Turrialba,NA,932,Hymenoptera,Apidae,Tapinotaspidini,Unknown,unknown,APISPP,Unknown,2
+130,Turrialba,NA,993,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",2
+130,Turrialba,NA,993,Hymenoptera,Apidae,Bombini,Bombus,melaleucus,BOMMEL,Chiquizá,1
+130,Turrialba,NA,993,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+130,Turrialba,NA,993,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+130,Turrialba,NA,993,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+130,Turrialba,NA,993,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",3
+131,Turrialba,NA,845,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",2
+131,Turrialba,NA,845,Hymenoptera,Apidae,Meliponini,Partamona,musarum,PARMUS,Unknown,5
+131,Turrialba,NA,845,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",5
+131,Turrialba,NA,845,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",5
+131,Turrialba,NA,845,Hymenoptera,Apidae,Meliponini,Trigona,ferricauda,TRIFER,Unknown,1
+131,Turrialba,NA,845,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",3
+131,Turrialba,NA,845,Hymenoptera,Halictidae,Halictini,Unknown,unknown,HLCSPP,Unknown,1
+132,Turrialba,NA,889,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+132,Turrialba,NA,889,Hymenoptera,Apidae,Meliponini,Trigona,fuscipennis,TRIFUS,"Atarrá, enredapelos",1
+132,Turrialba,NA,889,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+132,Turrialba,NA,889,Hymenoptera,Apidae,Tapinotaspidini,Unknown,unknown,APISPP,Unknown,1
+133,Turrialba,NA,849,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",2
+133,Turrialba,NA,849,Hymenoptera,Apidae,Meliponini,Partamona,musarum,PARMUS,Unknown,1
+133,Turrialba,NA,849,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,2
+133,Turrialba,NA,849,Hymenoptera,Apidae,Meliponini,Tetragona,ziegleri,TETZIE,"Mariolón, miel de leche, baba de buey",1
+133,Turrialba,NA,849,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",8
+133,Turrialba,NA,849,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+133,Turrialba,NA,849,Hymenoptera,Apidae,Meliponini,Trigona,fuscipennis,TRIFUS,"Atarrá, enredapelos",1
+133,Turrialba,NA,849,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",3
+133,Turrialba,NA,849,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+133,Turrialba,NA,849,Hymenoptera,Halictidae,Halictini,Agapostemon,unknown,AGASPP,Unknown,1
+133,Turrialba,NA,849,Hymenoptera,Halictidae,Halictini,Ptilocleptis,unknown,PTISPP,Unknown,1
+134,Turrialba,NA,955,Hymenoptera,Apidae,Euglossini,Euglossa,dissimula,EUGDIS,Abeja de las orquídeas,1
+134,Turrialba,NA,955,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+134,Turrialba,NA,955,Hymenoptera,Apidae,Meliponini,Plebeia,jatiformis,PLEJAT,"Chupa ojos, mariola sin piquera",1
+134,Turrialba,NA,955,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+134,Turrialba,NA,955,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+135,Turrialba,NA,1063,Hymenoptera,Apidae,Euglossini,Euglossa,unknown,EUGSPP,Abeja de las orquídeas,1
+135,Turrialba,NA,1063,Hymenoptera,Apidae,Euglossini,Eulaema,cingulata,EULCIN,"Chiquizá, abeja de las orquídeas",1
+135,Turrialba,NA,1063,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+135,Turrialba,NA,1063,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,1
+135,Turrialba,NA,1063,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+136,Turrialba,NA,1042,Hymenoptera,Apidae,Bombini,Bombus,melaleucus,BOMMEL,Chiquizá,1
+136,Turrialba,NA,1042,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+137,Turrialba,NA,737,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+137,Turrialba,NA,737,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",3
+137,Turrialba,NA,737,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+137,Turrialba,NA,737,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,5
+137,Turrialba,NA,737,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,1
+137,Turrialba,NA,737,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",3
+137,Turrialba,NA,737,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+137,Turrialba,NA,737,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",3
+137,Turrialba,NA,737,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+138,Turrialba,NA,840,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+139,Turrialba,NA,1000,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+140,Turrialba,NA,948,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",1
+140,Turrialba,NA,948,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+140,Turrialba,NA,948,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,1
+140,Turrialba,NA,948,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",5
+140,Turrialba,NA,948,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",5
+140,Turrialba,NA,948,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+140,Turrialba,NA,948,Hymenoptera,Apidae,Meliponini,Trigona,fuscipennis,TRIFUS,"Atarrá, enredapelos",1
+140,Turrialba,NA,948,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",2
+140,Turrialba,NA,948,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+140,Turrialba,NA,948,Hymenoptera,Halictidae,Halictini,Unknown,unknown,HLCSPP,Unknown,1
+141,Turrialba,NA,805,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+141,Turrialba,NA,805,Hymenoptera,Apidae,Meliponini,Cephalotrigona,zexmeniae,CEPZEX,"Tamagá, tamagá amarillo",1
+141,Turrialba,NA,805,Hymenoptera,Apidae,Meliponini,Melipona,costaricensis,MELCOS,"Jicote barcino, ocular",1
+141,Turrialba,NA,805,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",1
+141,Turrialba,NA,805,Hymenoptera,Apidae,Meliponini,Partamona,musarum,PARMUS,Unknown,3
+141,Turrialba,NA,805,Hymenoptera,Apidae,Meliponini,Plebeia,llorentei,PLELLO,Chupa ojos,1
+141,Turrialba,NA,805,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+141,Turrialba,NA,805,Hymenoptera,Apidae,Meliponini,Tetragonisca,buchwaldi,TETBUC,Mariola negra,1
+141,Turrialba,NA,805,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+141,Turrialba,NA,805,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+142,Turrialba,NA,727,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+142,Turrialba,NA,727,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",1
+142,Turrialba,NA,727,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+142,Turrialba,NA,727,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,2
+142,Turrialba,NA,727,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",6
+142,Turrialba,NA,727,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+142,Turrialba,NA,727,Hymenoptera,Apidae,Meliponini,Trigona,ferricauda,TRIFER,Unknown,2
+142,Turrialba,NA,727,Hymenoptera,Apidae,Meliponini,Trigona,fuscipennis,TRIFUS,"Atarrá, enredapelos",1
+142,Turrialba,NA,727,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+61,Valle Central,2021-04-06T00:00:00Z,1447,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",9
+61,Valle Central,2021-04-06T00:00:00Z,1447,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,1
+61,Valle Central,2021-04-06T00:00:00Z,1447,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+61,Valle Central,2021-04-06T00:00:00Z,1447,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",9
+61,Valle Central,2021-04-06T00:00:00Z,1447,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+62,Valle Central,2021-04-19T00:00:00Z,1205,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+62,Valle Central,2021-04-19T00:00:00Z,1205,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",9
+62,Valle Central,2021-04-19T00:00:00Z,1205,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",12
+62,Valle Central,2021-04-19T00:00:00Z,1205,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",34
+63,Valle Central,2021-04-22T00:00:00Z,1274,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,2
+64,Valle Central,2021-04-22T00:00:00Z,1283,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+64,Valle Central,2021-04-22T00:00:00Z,1283,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+65,Valle Central,2021-04-06T00:00:00Z,1238,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",7
+65,Valle Central,2021-04-06T00:00:00Z,1238,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",5
+65,Valle Central,2021-04-06T00:00:00Z,1238,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",21
+65,Valle Central,2021-04-06T00:00:00Z,1238,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+66,Valle Central,2021-04-07T00:00:00Z,1532,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",16
+66,Valle Central,2021-04-07T00:00:00Z,1532,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,2
+66,Valle Central,2021-04-07T00:00:00Z,1532,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",1
+66,Valle Central,2021-04-07T00:00:00Z,1532,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+66,Valle Central,2021-04-07T00:00:00Z,1532,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+66,Valle Central,2021-04-07T00:00:00Z,1532,Hymenoptera,Unknown,Unknown,Unknown,unknown,HYMSPP,Unknown,1
+67,Valle Central,2021-04-07T00:00:00Z,1614,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",8
+67,Valle Central,2021-04-07T00:00:00Z,1614,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+67,Valle Central,2021-04-07T00:00:00Z,1614,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+67,Valle Central,2021-04-07T00:00:00Z,1614,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+68,Valle Central,2021-04-07T00:00:00Z,1613,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",12
+68,Valle Central,2021-04-07T00:00:00Z,1613,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",7
+68,Valle Central,2021-04-07T00:00:00Z,1613,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+69,Valle Central,2021-04-21T00:00:00Z,1485,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",21
+69,Valle Central,2021-04-21T00:00:00Z,1485,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,1
+69,Valle Central,2021-04-21T00:00:00Z,1485,Hymenoptera,Apidae,Meliponini,Lestrimelitta,danuncia,LESDAN,"Limoncillo, jicote limón",1
+70,Valle Central,2021-04-21T00:00:00Z,1534,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",20
+70,Valle Central,2021-04-21T00:00:00Z,1534,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,3
+70,Valle Central,2021-04-21T00:00:00Z,1534,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+70,Valle Central,2021-04-21T00:00:00Z,1534,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+71,Valle Central,2021-04-19T00:00:00Z,1184,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",5
+71,Valle Central,2021-04-19T00:00:00Z,1184,Hymenoptera,Apidae,Bombini,Bombus,ephippiatus,BOMEPH,Chiquizá,1
+71,Valle Central,2021-04-19T00:00:00Z,1184,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+71,Valle Central,2021-04-19T00:00:00Z,1184,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+72,Valle Central,2021-04-20T00:00:00Z,1168,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",19
+72,Valle Central,2021-04-20T00:00:00Z,1168,Hymenoptera,Apidae,Meliponini,Cephalotrigona,zexmeniae,CEPZEX,"Tamagá, tamagá amarillo",1
+72,Valle Central,2021-04-20T00:00:00Z,1168,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+72,Valle Central,2021-04-20T00:00:00Z,1168,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+73,Valle Central,2021-04-20T00:00:00Z,1207,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",15
+73,Valle Central,2021-04-20T00:00:00Z,1207,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+73,Valle Central,2021-04-20T00:00:00Z,1207,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+74,Valle Central,2021-04-21T00:00:00Z,1269,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",19
+74,Valle Central,2021-04-21T00:00:00Z,1269,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+75,Valle Central,2021-04-21T00:00:00Z,1439,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",32
+75,Valle Central,2021-04-21T00:00:00Z,1439,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,9
+75,Valle Central,2021-04-21T00:00:00Z,1439,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",8
+76,Valle Central,2021-04-22T00:00:00Z,1500,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+76,Valle Central,2021-04-22T00:00:00Z,1500,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",13
+76,Valle Central,2021-04-22T00:00:00Z,1500,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",3
+77,Valle Central,2021-03-18T00:00:00Z,1085,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",5
+78,Valle Central,2021-03-26T00:00:00Z,1093,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",12
+78,Valle Central,2021-03-26T00:00:00Z,1093,Hymenoptera,Apidae,Exomalopsini,Exomalopsis,unknown,EXOSPP,Unknown,1
+78,Valle Central,2021-03-26T00:00:00Z,1093,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+78,Valle Central,2021-03-26T00:00:00Z,1093,Hymenoptera,Apidae,Meliponini,Plebeia,jatiformis,PLEJAT,"Chupa ojos, mariola sin piquera",1
+78,Valle Central,2021-03-26T00:00:00Z,1093,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,1
+78,Valle Central,2021-03-26T00:00:00Z,1093,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",20
+78,Valle Central,2021-03-26T00:00:00Z,1093,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",47
+78,Valle Central,2021-03-26T00:00:00Z,1093,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+78,Valle Central,2021-03-26T00:00:00Z,1093,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+79,Valle Central,2021-04-05T00:00:00Z,1390,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,10
+79,Valle Central,2021-04-05T00:00:00Z,1390,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+79,Valle Central,2021-04-05T00:00:00Z,1390,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+79,Valle Central,2021-04-05T00:00:00Z,1390,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,2
+80,Valle Central,2021-04-05T00:00:00Z,1513,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",2
+80,Valle Central,2021-04-05T00:00:00Z,1513,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,11
+80,Valle Central,2021-04-05T00:00:00Z,1513,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+80,Valle Central,2021-04-05T00:00:00Z,1513,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",23
+82,Valle Central,2021-04-21T00:00:00Z,1447,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+82,Valle Central,2021-04-21T00:00:00Z,1447,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+83,Valle Central,2021-04-21T00:00:00Z,1462,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",6
+83,Valle Central,2021-04-21T00:00:00Z,1462,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,2
+83,Valle Central,2021-04-21T00:00:00Z,1462,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",3
+83,Valle Central,2021-04-21T00:00:00Z,1462,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+83,Valle Central,2021-04-21T00:00:00Z,1462,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+84,Valle Central,2021-04-06T00:00:00Z,1439,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",10
+84,Valle Central,2021-04-06T00:00:00Z,1439,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+84,Valle Central,2021-04-06T00:00:00Z,1439,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+85,Valle Central,2021-04-19T00:00:00Z,1153,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+85,Valle Central,2021-04-19T00:00:00Z,1153,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",3
+85,Valle Central,2021-04-19T00:00:00Z,1153,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+85,Valle Central,2021-04-19T00:00:00Z,1153,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",10
+85,Valle Central,2021-04-19T00:00:00Z,1153,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",16
+85,Valle Central,2021-04-19T00:00:00Z,1153,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+86,Valle Central,2021-03-26T00:00:00Z,1025,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",9
+86,Valle Central,2021-03-26T00:00:00Z,1025,Hymenoptera,Apidae,Centridini,Epicharis,maculata,EPIMAC,Unknown,1
+86,Valle Central,2021-03-26T00:00:00Z,1025,Hymenoptera,Apidae,Meliponini,Nannotrigona,perilampoides,NANPER,"Chicopipe, conguita",1
+86,Valle Central,2021-03-26T00:00:00Z,1025,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",3
+86,Valle Central,2021-03-26T00:00:00Z,1025,Hymenoptera,Apidae,Meliponini,Scaptotrigona,pectoralis,SCAPEC,Soncuano,21
+86,Valle Central,2021-03-26T00:00:00Z,1025,Hymenoptera,Apidae,Meliponini,Scaura,argyrea,SCAARG,Mariola negra,7
+86,Valle Central,2021-03-26T00:00:00Z,1025,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",20
+86,Valle Central,2021-03-26T00:00:00Z,1025,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",17
+86,Valle Central,2021-03-26T00:00:00Z,1025,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",3
+87,Valle Central,2021-03-26T00:00:00Z,986,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",14
+87,Valle Central,2021-03-26T00:00:00Z,986,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,1
+87,Valle Central,2021-03-26T00:00:00Z,986,Hymenoptera,Apidae,Meliponini,Plebeia,frontalis,PLEFRO,Chupa ojos,1
+87,Valle Central,2021-03-26T00:00:00Z,986,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",8
+87,Valle Central,2021-03-26T00:00:00Z,986,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",11
+87,Valle Central,2021-03-26T00:00:00Z,986,Hymenoptera,Apidae,Meliponini,Trigonisca,pipioli,TRIPIP,Chupa ojos,1
+87,Valle Central,2021-03-26T00:00:00Z,986,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+88,Valle Central,2021-04-05T00:00:00Z,1475,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",11
+88,Valle Central,2021-04-05T00:00:00Z,1475,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,3
+88,Valle Central,2021-04-05T00:00:00Z,1475,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+88,Valle Central,2021-04-05T00:00:00Z,1475,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+89,Valle Central,2021-04-06T00:00:00Z,1474,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,1
+89,Valle Central,2021-04-06T00:00:00Z,1474,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+89,Valle Central,2021-04-06T00:00:00Z,1474,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",2
+89,Valle Central,2021-04-06T00:00:00Z,1474,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",19
+90,Valle Central,2021-04-19T00:00:00Z,1087,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",10
+90,Valle Central,2021-04-19T00:00:00Z,1087,Hymenoptera,Apidae,Centridini,Centris,unknown,CENSPP,Unknown,2
+90,Valle Central,2021-04-19T00:00:00Z,1087,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,5
+90,Valle Central,2021-04-19T00:00:00Z,1087,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",3
+90,Valle Central,2021-04-19T00:00:00Z,1087,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+90,Valle Central,2021-04-19T00:00:00Z,1087,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+90,Valle Central,2021-04-19T00:00:00Z,1087,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+91,Valle Occidental,2021-04-19T00:00:00Z,1078,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",24
+91,Valle Occidental,2021-04-19T00:00:00Z,1078,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+91,Valle Occidental,2021-04-19T00:00:00Z,1078,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",3
+92,Valle Occidental,2021-04-20T00:00:00Z,1090,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+92,Valle Occidental,2021-04-20T00:00:00Z,1090,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+93,Valle Occidental,2021-04-20T00:00:00Z,1106,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",3
+93,Valle Occidental,2021-04-20T00:00:00Z,1106,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,1
+93,Valle Occidental,2021-04-20T00:00:00Z,1106,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+93,Valle Occidental,2021-04-20T00:00:00Z,1106,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+94,Valle Occidental,2021-04-21T00:00:00Z,1510,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",14
+94,Valle Occidental,2021-04-21T00:00:00Z,1510,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,2
+94,Valle Occidental,2021-04-21T00:00:00Z,1510,Hymenoptera,Apidae,Meliponini,Melipona,costaricensis,MELCOS,"Jicote barcino, ocular",1
+94,Valle Occidental,2021-04-21T00:00:00Z,1510,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+94,Valle Occidental,2021-04-21T00:00:00Z,1510,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+95,Valle Occidental,2021-04-22T00:00:00Z,1439,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",8
+95,Valle Occidental,2021-04-22T00:00:00Z,1439,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",6
+95,Valle Occidental,2021-04-22T00:00:00Z,1439,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",6
+95,Valle Occidental,2021-04-22T00:00:00Z,1439,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+97,Valle Occidental,2021-04-16T00:00:00Z,998,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",24
+97,Valle Occidental,2021-04-16T00:00:00Z,998,Hymenoptera,Apidae,Exomalopsini,Exomalopsis,unknown,EXOSPP,Unknown,1
+97,Valle Occidental,2021-04-16T00:00:00Z,998,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,1
+97,Valle Occidental,2021-04-16T00:00:00Z,998,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",1
+97,Valle Occidental,2021-04-16T00:00:00Z,998,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",4
+97,Valle Occidental,2021-04-16T00:00:00Z,998,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+97,Valle Occidental,2021-04-16T00:00:00Z,998,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+97,Valle Occidental,2021-04-16T00:00:00Z,998,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,2
+98,Valle Occidental,2021-04-19T00:00:00Z,1116,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",30
+98,Valle Occidental,2021-04-19T00:00:00Z,1116,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",1
+98,Valle Occidental,2021-04-19T00:00:00Z,1116,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+99,Valle Occidental,2021-04-22T00:00:00Z,1553,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",17
+99,Valle Occidental,2021-04-22T00:00:00Z,1553,Hymenoptera,Apidae,Bombini,Bombus,melaleucus,BOMMEL,Chiquizá,1
+99,Valle Occidental,2021-04-22T00:00:00Z,1553,Hymenoptera,Apidae,Exomalopsini,Exomalopsis,unknown,EXOSPP,Unknown,1
+99,Valle Occidental,2021-04-22T00:00:00Z,1553,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",6
+99,Valle Occidental,2021-04-22T00:00:00Z,1553,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",2
+99,Valle Occidental,2021-04-22T00:00:00Z,1553,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+99,Valle Occidental,2021-04-22T00:00:00Z,1553,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+100,Valle Occidental,2021-04-22T00:00:00Z,1531,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",7
+100,Valle Occidental,2021-04-22T00:00:00Z,1531,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",12
+101,Valle Occidental,2021-04-15T00:00:00Z,1041,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",85
+101,Valle Occidental,2021-04-15T00:00:00Z,1041,Hymenoptera,Apidae,Meliponini,Cephalotrigona,zexmeniae,CEPZEX,"Tamagá, tamagá amarillo",1
+101,Valle Occidental,2021-04-15T00:00:00Z,1041,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",28
+101,Valle Occidental,2021-04-15T00:00:00Z,1041,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",4
+101,Valle Occidental,2021-04-15T00:00:00Z,1041,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+101,Valle Occidental,2021-04-15T00:00:00Z,1041,Hymenoptera,Apidae,Xylocopini,Xylocopa,unknown,XYLSPP,"Chiquizá, carpintera",1
+102,Valle Occidental,2021-04-16T00:00:00Z,1043,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",12
+102,Valle Occidental,2021-04-16T00:00:00Z,1043,Hymenoptera,Apidae,Eucerini,Thygater,unknown,THYSPP,Unknown,1
+102,Valle Occidental,2021-04-16T00:00:00Z,1043,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",5
+102,Valle Occidental,2021-04-16T00:00:00Z,1043,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",8
+102,Valle Occidental,2021-04-16T00:00:00Z,1043,Hymenoptera,Apidae,Meliponini,Trigona,nigerrima,TRINIG,"Atarrá, enredapelos",1
+102,Valle Occidental,2021-04-16T00:00:00Z,1043,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,2
+103,Valle Occidental,2021-04-19T00:00:00Z,1162,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",28
+103,Valle Occidental,2021-04-19T00:00:00Z,1162,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",15
+104,Valle Occidental,2021-05-13T00:00:00Z,1500,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",8
+104,Valle Occidental,2021-05-13T00:00:00Z,1500,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,1
+104,Valle Occidental,2021-05-13T00:00:00Z,1500,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",4
+104,Valle Occidental,2021-05-13T00:00:00Z,1500,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+105,Valle Occidental,2021-04-21T00:00:00Z,1221,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+105,Valle Occidental,2021-04-21T00:00:00Z,1221,Hymenoptera,Apidae,Meliponini,Trigona,silvestriana,TRISIL,"Atarrá, arragre",1
+105,Valle Occidental,2021-04-21T00:00:00Z,1221,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+106,Valle Occidental,2021-04-19T00:00:00Z,1094,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",5
+106,Valle Occidental,2021-04-19T00:00:00Z,1094,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",3
+107,Valle Occidental,2021-04-20T00:00:00Z,1144,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",4
+107,Valle Occidental,2021-04-20T00:00:00Z,1144,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+108,Valle Occidental,2021-04-22T00:00:00Z,1504,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",12
+108,Valle Occidental,2021-04-22T00:00:00Z,1504,Hymenoptera,Apidae,Meliponini,Geotrigona,lutzi,GEOLUT,Abeja de tierra,4
+108,Valle Occidental,2021-04-22T00:00:00Z,1504,Hymenoptera,Apidae,Meliponini,Melipona,costaricensis,MELCOS,"Jicote barcino, ocular",1
+108,Valle Occidental,2021-04-22T00:00:00Z,1504,Hymenoptera,Apidae,Meliponini,Partamona,orizabaensis,PARORI,"Enreda pelo, atarrá de suelo",2
+108,Valle Occidental,2021-04-22T00:00:00Z,1504,Hymenoptera,Apidae,Meliponini,Tetragonisca,angustula,TETANG,"Mariola, mariaseca, mariquita",1
+108,Valle Occidental,2021-04-22T00:00:00Z,1504,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+108,Valle Occidental,2021-04-22T00:00:00Z,1504,Hymenoptera,Apidae,Meliponini,Trigona,fulviventris,TRIFUL,"Culo de buey, culo de señora",1
+108,Valle Occidental,2021-04-22T00:00:00Z,1504,Hymenoptera,Halictidae,Unknown,Unknown,unknown,HLCSPP,Unknown,1
+109,Valle Occidental,2021-04-15T00:00:00Z,908,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",26
+109,Valle Occidental,2021-04-15T00:00:00Z,908,Hymenoptera,Apidae,Meliponini,Cephalotrigona,zexmeniae,CEPZEX,"Tamagá, tamagá amarillo",12
+109,Valle Occidental,2021-04-15T00:00:00Z,908,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",2
+110,Valle Occidental,2021-04-21T00:00:00Z,1232,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",1
+111,Valle Occidental,2021-04-20T00:00:00Z,1094,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",10
+111,Valle Occidental,2021-04-20T00:00:00Z,1094,Hymenoptera,Apidae,Meliponini,Trigona,corvina,TRICOR,"Atarrá, arragre, enredapelos",7
+112,Valle Occidental,2021-04-21T00:00:00Z,1238,Hymenoptera,Apidae,Apini,Apis,mellifera,APIMEL,"Abeja melifera, abeja de castilla",11
+112,Valle Occidental,2021-04-21T00:00:00Z,1238,Hymenoptera,Apidae,Exomalopsini,Exomalopsis,unknown,EXOSPP,Unknown,1

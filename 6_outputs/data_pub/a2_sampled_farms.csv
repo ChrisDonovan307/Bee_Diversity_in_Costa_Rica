@@ -1,0 +1,143 @@
+farm_code,region,date,elevation_m,province,county,district,start_time,temp_c,wind,rain,rain_intensity,shade_type,sky,farm_area_ha,coffee_area_ha,coffee_flower,ground_flower,canopy_flower
+1,Los Santos,2021-05-18T00:00:00Z,1756,San José,Dota,Copey,10:07:00 UTC,23.4,1.8,0,0,1,40,8.969999999999999,8.969999999999999,1,4,0
+2,Los Santos,2021-04-06T00:00:00Z,1727,San José,Dota,Santa María,10:45:00 UTC,25.6,0,0,0,2,30,NA,NA,1,4,1
+3,Los Santos,2021-03-31T00:00:00Z,1428,San José,Tarrazú,San Lorenzo,08:30:00 UTC,26.4,0.6,0,0,1,45,2.415,2.415,3,2,0
+4,Los Santos,2021-03-29T00:00:00Z,1497,San José,Tarrazú,San Marcos,11:10:00 UTC,28.6,1.8,0,0,1,95,10.2,2.5,3,0,0
+5,Los Santos,2021-03-29T00:00:00Z,1364,San José,Tarrazú,San Lorenzo,15:20:00 UTC,26.4,1.1,0,0,2,80,1.38,1.38,3,1,0
+6,Los Santos,2021-03-31T00:00:00Z,1722,San José,Tarrazú,San Marcos,12:25:00 UTC,23.3,0.8,0,0,2,60,NA,NA,2,1,0
+7,Los Santos,2021-04-02T00:00:00Z,1542,San José,Desamparados,Frailes,09:56:00 UTC,22.4,2.4,0,0,2,60,3,3,2,1,1
+8,Los Santos,2021-04-06T00:00:00Z,2046,San José,Dota,Santa María,08:15:00 UTC,20.1,0,0,0,2,60,20,20,2,4,0
+9,Los Santos,2021-03-30T00:00:00Z,1588,San José,Dota,Santa María,08:31:00 UTC,25.2,3.3,0,0,2,65,3,3,2,0,1
+10,Los Santos,2021-03-29T00:00:00Z,1430,San José,Tarrazú,San Lorenzo,13:12:00 UTC,28.3,1.2,0,0,2,65,0.8,0.8,3,0,0
+11,Los Santos,2021-05-18T00:00:00Z,1698,San José,Dota,Copey,09:11:00 UTC,21.2,0.8,0,0,2,35,5,5,1,2,3
+12,Los Santos,2021-03-30T00:00:00Z,1506,San José,Desamparados,Frailes,14:43:00 UTC,28.7,1.7,0,0,2,35,NA,NA,3,1,0
+13,Los Santos,2021-04-02T00:00:00Z,1584,San José,Desamparados,Frailes,08:37:00 UTC,18.8,2.6,1,1,1,20,0.69,0.69,2,4,0
+14,Los Santos,2021-04-23T00:00:00Z,1852,San José,Dota,Santa María,08:37:00 UTC,19,1.8,0,0,1,95,1.7249999999999999,1.7249999999999999,1,3,4
+15,Los Santos,2021-04-05T00:00:00Z,1903,San José,Tarrazú,San Marcos,13:28:00 UTC,24.7,2,0,0,2,40,2.76,2.76,1,1,0
+16,Los Santos,2021-04-02T00:00:00Z,1539,San José,Desamparados,Frailes,09:23:00 UTC,19.4,1.8,1,1,2,5,NA,NA,1,1,0
+17,Los Santos,2021-03-31T00:00:00Z,1770,San José,Tarrazú,San Marcos,14:30:00 UTC,25.6,1.1,0,0,1,40,7.59,7.59,2,0,0
+18,Los Santos,2021-03-31T00:00:00Z,1624,San José,Tarrazú,San Marcos,10:30:00 UTC,27.4,1.3,0,0,2,45,12.419999999999998,2.76,3,1,2
+19,Los Santos,2021-04-06T00:00:00Z,1880,San José,Dota,Santa María,09:23:00 UTC,25.2,0,0,0,2,70,60,60,2,1,1
+20,Los Santos,2021-04-06T00:00:00Z,2117,San José,Dota,Santa María,11:58:00 UTC,19.6,2.4,0,0,2,2,4.14,3.4499999999999997,1,4,4
+21,Los Santos,2021-04-01T00:00:00Z,1749,San José,Leon Cortes,San Isidro,11:27:00 UTC,25.5,2.1,0,0,2,80,0.69,0.69,2,1,0
+22,Los Santos,2021-05-18T00:00:00Z,1779,San José,Dota,Copey,11:11:00 UTC,25.4,1.1,0,0,1,15,2.76,2.76,1,2,0
+23,Los Santos,2021-04-23T00:00:00Z,1523,San José,Tarrazú,San Lorenzo,11:35:00 UTC,23.2,1.9,0,0,0,10,6.209999999999999,6.209999999999999,2,4,0
+24,Los Santos,2021-04-01T00:00:00Z,1399,San José,Tarrazú,San Lorenzo,08:00:00 UTC,23.5,1.4,0,0,2,50,2.76,2.76,2,0,1
+25,Los Santos,2021-03-30T00:00:00Z,1742,San José,Leon Cortes,San Pablo,11:50:00 UTC,23.7,0.8,1,1,1,25,2.07,2.07,3,0,1
+26,Los Santos,2021-04-02T00:00:00Z,1471,San José,Desamparados,Frailes,07:49:00 UTC,19.6,0.9,0,0,2,40,0.8,0.8,1,2,4
+27,Los Santos,2021-03-30T00:00:00Z,1361,San José,Desamparados,Frailes,13:32:00 UTC,25.5,1.7,0,0,1,30,1,1,2,0,0
+28,Los Santos,2021-04-23T00:00:00Z,1480,San José,Tarrazú,San Lorenzo,13:31:00 UTC,23.4,0.9,0,0,2,0,2.3,2.3,1,1,0
+29,Los Santos,2021-04-23T00:00:00Z,1432,San José,Tarrazú,San Marcos,10:37:00 UTC,25.4,0.8,0,0,1,80,0.69,0.69,1,0,0
+30,Los Santos,2021-04-23T00:00:00Z,1556,San José,Tarrazú,San Lorenzo,12:40:00 UTC,26.6,1.3,0,0,1,5,7.59,5.52,1,1,0
+31,Los Santos,2021-03-30T00:00:00Z,1641,San José,Tarrazú,San Lorenzo,10:08:00 UTC,23.6,0.8,0,0,1,50,6.209999999999999,6.209999999999999,2,1,1
+32,Los Santos,2021-04-01T00:00:00Z,1417,San José,Tarrazú,San Marcos,09:25:00 UTC,29.5,1.5,0,0,2,75,2,2,2,0,2
+33,Los Santos,2021-03-31T00:00:00Z,1607,San José,Tarrazú,San Marcos,11:20:00 UTC,29.5,1.8,0,0,2,20,1.38,1.38,2,1,1
+34,Pérez Zeledón,2021-04-01T00:00:00Z,1506,San José,Pérez Zeledón,Rivas,09:55:00 UTC,27.6,2.6,0,0,0,50,4,2,2,2,3
+35,Pérez Zeledón,2021-03-31T00:00:00Z,1317,San José,Pérez Zeledón,Páramo,11:35:00 UTC,26.4,0.7,0,0,1,5,9,7,1,3,0
+36,Pérez Zeledón,2021-03-30T00:00:00Z,1060,San José,Pérez Zeledón,Daniel Flores,09:10:00 UTC,24,0.7,0,0,1,25,5,5,2,0,0
+37,Pérez Zeledón,2021-03-31T00:00:00Z,1172,San José,Pérez Zeledón,Páramo,09:00:00 UTC,27.8,1.7,0,0,1,50,26,26,3,0,0
+38,Pérez Zeledón,2021-03-30T00:00:00Z,1172,San José,Pérez Zeledón,San Isidro Del General,12:11:00 UTC,27.9,0.7,0,0,2,80,69,55.199999999999996,2,1,0
+39,Pérez Zeledón,2021-03-31T00:00:00Z,1228,San José,Pérez Zeledón,Rio Nuevo,13:27:00 UTC,26.7,1.5,0,0,2,40,4,4,2,3,0
+40,Pérez Zeledón,2021-03-29T00:00:00Z,775,San José,Pérez Zeledón,Platanares,10:45:00 UTC,30.7,1.1,0,0,2,30,4,4,1,0,1
+41,Pérez Zeledón,2021-03-29T00:00:00Z,661,San José,Pérez Zeledón,Pejibaye,12:15:00 UTC,32.3,1.2,0,0,2,50,4,4,2,0,0
+42,Pérez Zeledón,2021-03-31T00:00:00Z,1393,San José,Pérez Zeledón,Páramo,10:20:00 UTC,23.8,1.3,0,0,2,5,0.1725,0.1725,3,0,0
+43,Pérez Zeledón,2021-04-01T00:00:00Z,1425,San José,Pérez Zeledón,Rivas,07:45:00 UTC,23.4,2.5,0,0,2,50,2,2,3,2,3
+44,Pérez Zeledón,2021-04-01T00:00:00Z,1501,San José,Pérez Zeledón,Rivas,08:58:00 UTC,25.1,0.7,0,0,2,65,6,6,3,0,0
+45,Pérez Zeledón,2021-04-01T00:00:00Z,1042,San José,Pérez Zeledón,Platanares,13:05:00 UTC,26.2,1.6,0,0,2,20,5,5,2,2,0
+46,Pérez Zeledón,2021-03-31T00:00:00Z,1004,San José,Pérez Zeledón,Páramo,08:08:00 UTC,27.4,0.1,0,0,1,90,4,4,3,3,0
+47,Pérez Zeledón,2021-03-30T00:00:00Z,932,San José,Pérez Zeledón,Daniel Flores,07:44:00 UTC,25.4,0.9,0,0,2,60,2.07,2.07,2,0,0
+48,Pérez Zeledón,2021-03-29T00:00:00Z,700,San José,Pérez Zeledón,Pejibaye,13:17:00 UTC,32.4,2.3,0,0,1,50,7,7,1,0,0
+49,Pérez Zeledón,2021-03-25T00:00:00Z,675,San José,Pérez Zeledón,Cajón,09:55:00 UTC,26.2,1,0,0,1,90,5.864999999999999,1.7249999999999999,1,0,0
+50,Pérez Zeledón,2021-03-23T00:00:00Z,693,San José,Pérez Zeledón,San Pedro,09:20:00 UTC,27.8,0.6,0,0,2,NA,35,3,1,0,0
+51,Pérez Zeledón,2021-03-23T00:00:00Z,873,San José,Pérez Zeledón,Cajón,12:08:00 UTC,26.2,0.8,1,1,2,NA,25,14,2,1,0
+52,Pérez Zeledón,2021-03-23T00:00:00Z,790,San José,Pérez Zeledón,Cajón,11:15:00 UTC,28.9,0.9,0,0,2,NA,3,1,2,0,0
+53,Pérez Zeledón,2021-03-23T00:00:00Z,691,San José,Pérez Zeledón,San Pedro,08:07:00 UTC,24.8,0.6,0,0,1,NA,35,15,2,1,0
+54,Pérez Zeledón,2021-03-24T00:00:00Z,1003,Puntarenas,Buenos Aires,Volcán,09:50:00 UTC,26.6,0.6,0,0,2,NA,100,60,2,0,1
+55,Pérez Zeledón,2021-03-24T00:00:00Z,980,San José,Pérez Zeledón,San Pedro,08:35:00 UTC,23.4,0.8,0,0,2,NA,6,3,3,1,0
+56,Pérez Zeledón,2021-03-23T00:00:00Z,728,San José,Pérez Zeledón,San Pedro,10:03:00 UTC,30.4,1.5,0,0,2,NA,33,33,2,2,0
+57,Pérez Zeledón,2021-03-24T00:00:00Z,866,San José,Pérez Zeledón,San Pedro,11:00:00 UTC,26.2,0.7,0,0,1,10,100,60,2,0,0
+58,Pérez Zeledón,2021-03-24T00:00:00Z,1025,San José,Pérez Zeledón,San Pedro,12:32:00 UTC,28.2,0.6,0,0,0,10,40,40,2,1,0
+59,Pérez Zeledón,2021-03-25T00:00:00Z,648,San José,Pérez Zeledón,San Pedro,08:26:00 UTC,30.2,1.1,0,0,2,50,80,80,2,0,0
+60,Pérez Zeledón,2021-03-25T00:00:00Z,799,San José,Pérez Zeledón,Daniel Flores,12:15:00 UTC,29.6,2,0,0,2,35,50,20,2,0,0
+61,Valle Central,2021-04-06T00:00:00Z,1447,Heredia,Barva,San Pablo,12:30:00 UTC,27.6,1.1,0,0,2,40,8,8,1,0,0
+62,Valle Central,2021-04-19T00:00:00Z,1205,Heredia,Santo Domingo,San Miguel,10:41:00 UTC,26.5,0.8,0,0,2,95,1,1,2,0,3
+63,Valle Central,2021-04-22T00:00:00Z,1274,Heredia,Santo Domingo,Para,09:58:00 UTC,20.7,1.2,1,1,2,0,23,23,1,2,0
+64,Valle Central,2021-04-22T00:00:00Z,1283,Heredia,San Isidro,San Francisco,11:20:00 UTC,24.4,2.2,1,1,2,50,20,20,1,1,1
+65,Valle Central,2021-04-06T00:00:00Z,1238,Heredia,Barva,San Pedro,08:09:00 UTC,25.8,1.4,0,0,2,90,5,1.5,1,2,3
+66,Valle Central,2021-04-07T00:00:00Z,1532,Heredia,Santa Barbara,Jesús,09:06:00 UTC,23.4,0.8,0,0,0,20,124.19999999999999,124.19999999999999,2,1,0
+67,Valle Central,2021-04-07T00:00:00Z,1614,Heredia,Santa Barbara,Jesús,09:56:00 UTC,24.9,1.1,0,0,0,50,124.19999999999999,124.19999999999999,1,1,0
+68,Valle Central,2021-04-07T00:00:00Z,1613,Heredia,Santa Barbara,Jesús,10:56:00 UTC,25.8,1.1,0,0,0,50,124.19999999999999,124.19999999999999,2,0,0
+69,Valle Central,2021-04-21T00:00:00Z,1485,Heredia,Santa Barbara,Santo Domingo,01:42:00 UTC,23.8,2.1,0,0,0,20,96.6,96.6,2,1,1
+70,Valle Central,2021-04-21T00:00:00Z,1534,Heredia,Santa Barbara,Santo Domingo,12:54:00 UTC,23.5,1.7,1,1,0,20,96.6,96.6,1,1,0
+71,Valle Central,2021-04-19T00:00:00Z,1184,Heredia,Barva,San Pedro,12:37:00 UTC,26.3,0.9,0,0,0,5,8,8,1,0,0
+72,Valle Central,2021-04-20T00:00:00Z,1168,Alajuela,Poas,San Pedro,08:25:00 UTC,24.4,0.8,0,0,2,45,440,440,2,1,1
+73,Valle Central,2021-04-20T00:00:00Z,1207,Alajuela,Poas,San Pedro,09:54:00 UTC,26.7,1,0,0,1,30,440,440,3,2,0
+74,Valle Central,2021-04-21T00:00:00Z,1269,Alajuela,Poas,San Pedro,08:32:00 UTC,22.2,0.9,0,0,0,60,440,440,2,2,0
+75,Valle Central,2021-04-21T00:00:00Z,1439,Alajuela,Poas,San Pedro,09:28:00 UTC,24.2,3,0,0,0,20,440,440,3,2,0
+76,Valle Central,2021-04-22T00:00:00Z,1500,Alajuela,Alajuela,San Isidro,07:55:00 UTC,20.3,2.7,1,1,0,35,32.43,32.43,2,0,0
+77,Valle Central,2021-03-18T00:00:00Z,1085,San José,Puriscal,Barbacoas,08:00:00 UTC,22.2,1.2,0,0,2,NA,1.38,1.38,1,1,4
+78,Valle Central,2021-03-26T00:00:00Z,1093,San José,Puriscal,Barbacoas,13:40:00 UTC,29.3,0.7,0,0,2,50,18,18,1,0,1
+79,Valle Central,2021-04-05T00:00:00Z,1390,Heredia,Barva,San José De La Montana,11:20:00 UTC,25.2,2.5,0,0,2,80,2,2,2,2,3
+80,Valle Central,2021-04-05T00:00:00Z,1513,Heredia,Barva,San José De La Montana,12:16:00 UTC,25.5,2.4,0,0,1,60,1.3,1.3,2,0,0
+81,Valle Central,2021-04-05T00:00:00Z,1285,Heredia,Barva,Santa Lucia,09:22:00 UTC,23.5,1.6,0,0,2,50,22.5,11.5,2,2,1
+82,Valle Central,2021-04-21T00:00:00Z,1447,Alajuela,Alajuela,San Isidro,10:55:00 UTC,24.2,1.2,0,0,0,20,69,69,2,1,0
+83,Valle Central,2021-04-21T00:00:00Z,1462,Alajuela,Alajuela,San Isidro,11:44:00 UTC,24.2,2.9,0,0,0,30,69,69,2,1,0
+84,Valle Central,2021-04-06T00:00:00Z,1439,Heredia,Barva,San Pablo,10:36:00 UTC,25.7,1.4,0,0,2,100,6,6,2,3,4
+85,Valle Central,2021-04-19T00:00:00Z,1153,Heredia,Santo Domingo,San Vicente,09:23:00 UTC,26.7,2.2,0,0,0,95,2,2,2,1,0
+86,Valle Central,2021-03-26T00:00:00Z,1025,San José,Puriscal,Mercedes Sur,11:45:00 UTC,29.6,1.1,0,0,2,45,2.76,0.5175,2,1,3
+87,Valle Central,2021-03-26T00:00:00Z,986,San José,Puriscal,Mercedes Sur,12:55:00 UTC,29.4,0.7,0,0,1,30,1,1,3,1,2
+88,Valle Central,2021-04-05T00:00:00Z,1475,Heredia,Barva,San José De La Montana,13:36:00 UTC,25.1,5.6,0,0,0,60,2,2,2,0,0
+89,Valle Central,2021-04-06T00:00:00Z,1474,Heredia,Barva,San José De La Montana,09:26:00 UTC,27.5,1.4,0,0,0,50,1.38,1.38,2,0,0
+90,Valle Central,2021-04-19T00:00:00Z,1087,Heredia,San Pablo,Rincón De Sabanilla,08:16:00 UTC,25.4,2.1,0,0,0,95,4,4,2,0,0
+91,Valle Occidental,2021-04-19T00:00:00Z,1078,Alajuela,San Ramon,Piedades Sur,13:34:00 UTC,25.1,1,0,0,2,5,4.6,4.6,3,1,3
+92,Valle Occidental,2021-04-20T00:00:00Z,1090,Alajuela,San Ramon,Santiago,08:54:00 UTC,22.5,0,0,0,2,3,11,10,3,1,0
+93,Valle Occidental,2021-04-20T00:00:00Z,1106,Alajuela,San Ramon,Santiago,10:51:00 UTC,26.2,1,0,0,2,15,5,5,3,4,3
+94,Valle Occidental,2021-04-21T00:00:00Z,1510,Alajuela,Naranjo,Cirrí Sur,14:10:00 UTC,27.1,0.7,0,0,2,60,1.38,1.38,3,4,4
+95,Valle Occidental,2021-04-22T00:00:00Z,1439,Alajuela,Naranjo,Cirrí Sur,12:59:00 UTC,24.5,1.6,0,0,2,95,3.4499999999999997,3.4499999999999997,3,4,4
+96,Valle Occidental,2021-04-16T00:00:00Z,968,Alajuela,Naranjo,San Miguel,12:31:00 UTC,27.1,3.7,0,0,0,5,84,84,2,0,0
+97,Valle Occidental,2021-04-16T00:00:00Z,998,Alajuela,Naranjo,San Miguel,12:23:00 UTC,28.6,4.6,0,0,0,20,84,84,3,1,4
+98,Valle Occidental,2021-04-19T00:00:00Z,1116,Alajuela,San Ramon,Piedades Sur,12:33:00 UTC,25.1,1,0,0,1,2,4.14,4.14,3,1,0
+99,Valle Occidental,2021-04-22T00:00:00Z,1553,Alajuela,Valverde Vega,Sarchi Norte,10:29:00 UTC,24.5,2.1,0,0,2,90,17.939999999999998,16.56,3,4,4
+100,Valle Occidental,2021-04-22T00:00:00Z,1531,Alajuela,Naranjo,San Jeronimo,12:03:00 UTC,24.5,2,0,0,2,80,8.28,5.52,3,0,0
+101,Valle Occidental,2021-04-15T00:00:00Z,1041,Alajuela,San Ramon,Piedades Sur,08:45:00 UTC,21.1,0.8,0,0,1,0,25,10,3,0,0
+102,Valle Occidental,2021-04-16T00:00:00Z,1043,Alajuela,Palmares,Santiago,09:25:00 UTC,26.3,0.8,0,0,2,30,0.8,0.8,2,0,0
+103,Valle Occidental,2021-04-19T00:00:00Z,1162,Alajuela,San Ramon,Piedades Sur,10:27:00 UTC,25.6,1.4,0,0,2,12,6,2,3,4,0
+104,Valle Occidental,2021-05-13T00:00:00Z,1500,Alajuela,Naranjo,Cirrí Sur,12:04:00 UTC,25,0.7,0,0,1,0,11.04,9.66,1,0,0
+105,Valle Occidental,2021-04-21T00:00:00Z,1221,Alajuela,Naranjo,San Juan,08:13:00 UTC,22.3,0.6,0,0,2,80,NA,NA,3,4,0
+106,Valle Occidental,2021-04-19T00:00:00Z,1094,Alajuela,San Ramon,Piedades Sur,11:34:00 UTC,28.8,1,0,0,1,15,5,5,3,1,0
+107,Valle Occidental,2021-04-20T00:00:00Z,1144,Alajuela,Palmares,Santiago,12:10:00 UTC,25.3,1,0,0,2,1,2,2,3,0,4
+108,Valle Occidental,2021-04-22T00:00:00Z,1504,Alajuela,Valverde Vega,Sarchi Norte,09:06:00 UTC,22.2,2,0,0,2,85,10,10,3,4,4
+109,Valle Occidental,2021-04-15T00:00:00Z,908,Alajuela,San Ramon,Alfaro,10:03:00 UTC,23.4,1.4,1,1,1,0,44,20,3,0,1
+110,Valle Occidental,2021-04-21T00:00:00Z,1232,Alajuela,Palmares,Zaragoza,12:55:00 UTC,22.4,0.6,0,0,1,0,NA,NA,3,0,4
+111,Valle Occidental,2021-04-20T00:00:00Z,1094,Alajuela,San Ramon,Santiago,09:45:00 UTC,26.1,0.7,0,0,2,2,6.8999999999999995,6.8999999999999995,3,1,2
+112,Valle Occidental,2021-04-21T00:00:00Z,1238,Alajuela,Naranjo,San Juan,10:19:00 UTC,23.1,1.4,0,0,2,2,3.4499999999999997,3.4499999999999997,3,4,0
+113,Turrialba,NA,716,Cartago,Turrialba,La Suiza,NA,22.75,0.15,NA,NA,2,0,2.76,2.42,3,0,1
+114,Turrialba,NA,872,Cartago,Turrialba,Santa Teresita,NA,27.633333333333333,0.16666666666666666,NA,NA,0,50.5,1,1,1,0,0
+115,Turrialba,NA,791,Cartago,Turrialba,Santa Teresita,NA,26.6,1.0333333333333332,NA,NA,1,65.41666666666667,3.5,1,3,0,0
+116,Turrialba,NA,795,Cartago,Turrialba,Tuis,NA,26.966666666666665,0.36666666666666664,NA,NA,2,39.166666666666664,0.34,0.34,1,0,3
+117,Turrialba,NA,887,Cartago,Turrialba,La Suiza,NA,23.966666666666665,0.23333333333333334,NA,NA,2,40.833333333333336,2,0.5,3,0,0
+118,Turrialba,NA,1026,Cartago,Turrialba,Santa Rosa,NA,25.675,0.3,NA,NA,2,63,1.38,1.38,3,0,0
+119,Turrialba,NA,740,Cartago,Turrialba,Pavones,NA,25.753333333333334,0.5933333333333334,NA,NA,2,38,4,4,3,0,0
+120,Turrialba,NA,672,Cartago,Turrialba,La Isabel,NA,27.900000000000002,0.45,NA,NA,0,52.666666666666664,3.1,3.1,3,0,0
+121,Turrialba,NA,959,Cartago,Turrialba,Santa Teresita,NA,26.8,0.325,NA,NA,1,51.42857142857143,3,2,1,0,0
+122,Turrialba,NA,826,Cartago,Turrialba,La Suiza,NA,28.3,0.35,NA,NA,1,44.375,2.07,0.34,3,0,1
+123,Turrialba,NA,920,Cartago,Turrialba,Santa Teresita,NA,27.1,0.39999999999999997,NA,NA,1,43,2,2,1,1,0
+124,Turrialba,NA,900,Cartago,Turrialba,Santa Teresita,NA,27.95,0.4333333333333333,NA,NA,0,52.5,2,2,2,0,0
+125,Turrialba,NA,1110,Cartago,Turrialba,Santa Teresita,NA,26.113333333333333,0.7727272727272727,NA,NA,0,58,6,1,1,1,0
+126,Turrialba,NA,673,Cartago,Turrialba,La Suiza,NA,29.1,0.3666666666666667,NA,NA,2,79.33333333333333,31,25,2,2,0
+127,Turrialba,NA,842,Cartago,Turrialba,Santa Teresita,NA,24.9,0.44999999999999996,NA,NA,1,14.875,30,3,1,0,0
+128,Turrialba,NA,875,Cartago,Turrialba,Tuis,NA,26.933333333333334,0.23333333333333334,NA,NA,2,58.45454545454545,1,1,1,0,0
+129,Turrialba,NA,932,Cartago,Turrialba,Pavones,NA,25.7125,0.425,NA,NA,2,35.3125,8,3,1,0,0
+130,Turrialba,NA,993,Cartago,Turrialba,Pavones,NA,23.933333333333334,0.3666666666666667,NA,NA,0,22.333333333333332,8,3,2,0,0
+131,Turrialba,NA,845,Cartago,Turrialba,Santa Teresita,NA,26,0.3666666666666667,NA,NA,0,41.0625,1.38,1.38,3,0,0
+132,Turrialba,NA,889,Cartago,Turrialba,La Suiza,NA,28.05,0.3,NA,NA,1,25.25,NA,1.04,2,0,0
+133,Turrialba,NA,849,Cartago,Turrialba,La Suiza,NA,27.9,0.6499999999999999,NA,NA,2,51.875,NA,1.04,1,0,0
+134,Turrialba,NA,955,Cartago,Turrialba,Santa Teresita,NA,29.72,0.58,NA,NA,1,52.7,6,4,1,0,0
+135,Turrialba,NA,1063,Cartago,Turrialba,Santa Teresita,NA,26.4,1.4333333333333333,NA,NA,2,38.75,4,2.5,1,0,0
+136,Turrialba,NA,1042,Cartago,Turrialba,Santa Teresita,NA,27.608333333333334,0.35,NA,NA,1,33.45454545454545,19.5,6,1,0,0
+137,Turrialba,NA,737,Cartago,Turrialba,Santa Teresita,NA,28.8,0.3,NA,NA,0,58.583333333333336,1,0.35,2,0,0
+138,Turrialba,NA,840,Cartago,Turrialba,Santa Rosa,NA,28.266666666666666,0.6333333333333333,NA,NA,0,84.66666666666667,26,24,3,0,0
+139,Turrialba,NA,1000,Cartago,Turrialba,Turrialba,NA,25.35,0.4375,NA,NA,0,43.125,26,24,3,0,0
+140,Turrialba,NA,948,Cartago,Turrialba,La Suiza,NA,28.8,0.4666666666666667,NA,NA,1,36.583333333333336,NA,NA,2,0,0
+141,Turrialba,NA,805,Cartago,Turrialba,Pavones,NA,27.84375,0.425,NA,NA,0,46.5625,5,5,3,0,1
+142,Turrialba,NA,727,Cartago,Turrialba,Tuis,NA,29.533333333333335,0.8333333333333333,NA,NA,2,76.41666666666667,3,2.5,2,0,0

@@ -1,0 +1,10 @@
+metadata for 2_clean
+last update: 2024-10-20
+
+Starting a log of what is being kept here and what it is for posterity (for when I forget). Note that APIMEL has been removed from all clean datasets in this folder. For sets with APIMEL, go to the with_apimel/ folder.
+
+- The a2, a4, and a5 dataframes are the cleaned versions of the excels originally shared.
+- farm_spp_dat is a join between a2 and a4. It contains the 136 farms, but also some farm level observation data including abundance on farm, richness on farm, a list of species at each farm, and a character string of species at each farm.
+- farm_spp_dat_func is also a join between a2 and a4. It contains everything that farm_spp_dat has, plus shannon diversity and functional hill numbers. It contains only 134 farms - 2 were lost because they only contained observations that were unidentified at the species level, so we could not calculate funcitonal diversity values for them. 
+- full is a full join between farm dat and spp dat, so there is one row for each species at each farm, 665 rows total.
+- dists_traits contains data from a2, a4, and a5. It is all the species, their traits, which provinces we found them in, and which provinces other catalogs have documented them in.

@@ -1,0 +1,10 @@
+Clean Spatial Data
+
+- farms_sf is a simple features file (sf) file that has farm level info as well as geometry
+- farms_sf_lulc has all that, as well as:
+    + info from Worldclim (temp and precip)
+    + SINAC lulc data from 2021
+    + the 2012 lulc data that Natalia shared and I forgot the name of
+    + Fitograficas data
+    + Zonas de Vida data
+- provinces is just an sf file with CR provinces.
